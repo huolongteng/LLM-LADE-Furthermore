@@ -46,4 +46,4 @@ Please download the official [Meta-LLaMA3-8B-Instruct model](https://huggingface
 
 ## 🚀 Inference with LLaMA-Factory
 
-You can use [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) to load and evaluate the model. specifying the version as llmtuner==0.7.1.dev0.
+You can use [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) to load and evaluate the model. specifying the version as 0.7.1.dev0.
