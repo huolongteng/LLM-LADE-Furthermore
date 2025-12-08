@@ -31,7 +31,12 @@ CONFIGS = {
     "Thunderbird": {
         "log_file": "Thunderbird.log",
         # 模板列：Label, Timestamp, Date, User, Month, Day, Time, Location, Component, PID, Content
-        "log_format": "<Label> <Timestamp> <Date> <User> <Month> <Day> <Time> <Location> <Component>[<PID>]: <Content>",
+        # Thunderbird 日志中有的行带有 [PID]，有的只有组件名，使用冒号作为统一分隔
+        # 例如：
+        # - 1147034081 2006.05.07 dn642 May 7 13:34:41 dn642/dn642 ntpd[2266]: synchronized to 10.100.26.250, stratum 3
+        # - 1136887631 2006.01.10 bn971 Jan 10 02:07:11 bn971/bn971 kernel: <...>
+        # 因此将组件字段调整为简单的“<Component>:”，以兼容带/不带 PID 的情况。
+        "log_format": "<Label> <Timestamp> <Date> <User> <Month> <Day> <Time> <Location> <Component>: <Content>",
         "regex": [
             r"(/|)(\d+\.){3}\d+(:\d+)?",  # 有些行可能含IP
         ],
@@ -72,18 +77,19 @@ def run_one(dataset: str, input_dir: str, output_dir: str):
 
 if __name__ == "__main__":
     # 按你的真实路径改
+    # BGL和HDFS都OK
     run_one(
         "BGL",
-        "F:\\Projects\\LLM-LADE-Furthermore\\exp_dataset\\BGL",
-        "F:\\Projects\\LLM-LADE-Furthermore\\exp_dataset\\BGL"
+        "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\BGL",
+        "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\BGL"
     )
     run_one(
         "HDFS",
-        "F:\\Projects\\LLM-LADE-Furthermore\\exp_dataset\\HDFS_v1",
-        "F:\\Projects\\LLM-LADE-Furthermore\\exp_dataset\\HDFS_v1"
+        "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\HDFS_v1",
+        "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\HDFS_v1"
     )
     run_one(
         "Thunderbird",
-        "F:\\Projects\\LLM-LADE-Furthermore\\exp_dataset\\Thunderbird",
-        "F:\\Projects\\LLM-LADE-Furthermore\\exp_dataset\\Thunderbird",
+        "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\Thunderbird",
+        "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\Thunderbird",
     )
