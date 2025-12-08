@@ -1,0 +1,1000 @@
+- 1147034081 2006.05.07 dn642 May 7 13:34:41 dn642/dn642 ntpd[2266]: synchronized to 10.100.26.250, stratum 3
+- 1147020581 2006.05.07 cn712 May 7 09:49:41 cn712/cn712 sysctl: net.core.wmem_default = 262144
+- 1136887631 2006.01.10 bn971 Jan 10 02:07:11 bn971/bn971 kernel: <ffffffff8015f550>{kmem_getpages+36} <ffffffff8015fce5>{cache_alloc_refill+609}
+- 1145359843 2006.04.18 an293 Apr 18 04:30:43 an293/an293 sshd[1042]: Accepted publickey for root from ::ffff:10.100.2.250 port 49476 ssh2
+- 1132435369 2005.11.19 cn465 Nov 19 13:22:49 cn465/cn465 sshd(pam_unix)[10381]: session opened for user root by (uid=0)
+- 1143176347 2006.03.23 dn699 Mar 23 20:59:07 dn699/dn699 ntpd[2273]: synchronized to 10.100.28.250, stratum 3
+- 1149581023 2006.06.06 tbird-sm1 Jun 6 01:03:43 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_sweep.c:1553]: No configuration change required
+- 1141826461 2006.03.08 cn77 Mar 8 06:01:01 cn77/cn77 crond(pam_unix)[13774]: session opened for user root by (uid=0)
+- 1147107786 2006.05.08 cn337 May 8 10:03:06 cn337/cn337 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2C007D1000
+- 1149039350 2006.05.30 tsqe2 May 30 18:35:50 tsqe2/tsqe2 sshd[15170]: connection lost: 'Connection closed.'
+- 1144307950 2006.04.06 an590 Apr 6 00:19:10 an590/an590 smartd[1961]: smartd received signal 15: Terminated
+- 1133806964 2005.12.05 bn632 Dec 5 10:22:44 bn632/bn632 acpid: acpid startup succeeded
+- 1149114531 2006.05.31 dn381 May 31 15:28:51 dn381/dn381 sshd(pam_unix)[20027]: session opened for user root by (uid=0)
+- 1140656602 2006.02.22 an229 Feb 22 17:03:22 an229/an229 kernel: Probing IDE interface ide0...
+- 1147804696 2006.05.16 tbird-admin2 May 16 11:38:16 tbird-admin2/tbird-admin2 postfix/smtp[19966]: B4612AC4083: to=<#2688#@#73#>, orig_to=<#2688#@#21#>, relay=#211#[#212#], delay=5, status=sent (250 2.0.0 k4GHcCgE007645 Message accepted for delivery)
+- 1138728185 2006.01.31 en172 Jan 31 09:23:05 en172/en172 xinetd[2379]: Reading included configuration file: /etc/xinetd.d/ktalk [file=/etc/xinetd.d/ktalk] [line=13]
+- 1137088097 2006.01.12 dn354 Jan 12 09:48:17 dn354/dn354 network: Bringing up loopback interface: succeeded
+- 1150710707 2006.06.19 tbird-sm1 Jun 19 02:51:47 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_discovery.c:495]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 2, 13, 4, 10, 17, 0, 0, 0
+- 1152362863 2006.07.08 tsqe2 Jul 8 05:47:43 tsqe2/tsqe2 sshd[21607]: connection lost: 'Connection closed.'
+- 1147727211 2006.05.15 bn575 May 15 14:06:51 bn575/bn575 exiting on signal 15
+- 1143656901 2006.03.29 en313 Mar 29 10:28:21 en313/en313 netfs: Mounting NFS filesystems: succeeded
+- 1137060061 2006.01.12 bn459 Jan 12 02:01:01 bn459/bn459 crond(pam_unix)[5766]: session opened for user root by (uid=0)
+- 1141055447 2006.02.27 dn906 Feb 27 07:50:47 dn906/dn906 kernel: pan_common: init complete
+- 1142253105 2006.03.13 cadmin1 Mar 13 04:31:45 src@cadmin1 xinetd[1862]: START: rsync pid=28048 from=10.100.16.15
+- 1145918125 2006.04.24 bn266 Apr 24 15:35:25 bn266/bn266 kernel: NET: Registered protocol family 26
+- 1146878666 2006.05.05 cn845 May 5 18:24:26 cn845/cn845 kernel: Node 0 DMA per-cpu:
+- 1143671196 2006.03.29 bn721 Mar 29 14:26:36 bn721/bn721 kernel: checking TSC synchronization across 2 CPUs: passed.
+- 1133384461 2005.11.30 bn219 Nov 30 13:01:01 bn219/bn219 crond[5027]: (root) CMD (run-parts /etc/cron.hourly)
+- 1145602248 2006.04.20 an438 Apr 20 23:50:48 an438/an438 kernel: MOSAL(1): va = 0x1E224000
+- 1150183701 2006.06.13 #2116# Jun 13 00:28:21 #2116#/#2116# crond[7430]: (root) CMD (/usr/bin/mrtg /etc/mrtg/mrtg.cfg --lock-file /var/lock/mrtg/mrtg_l --confcache-file /var/lib/mrtg/mrtg.ok)
+- 1135257507 2005.12.22 tbird-sm1 Dec 22 05:18:27 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 1, 13, 13, 8, 5, 0, 0, 0
+- 1136309917 2006.01.03 an107 Jan 3 09:38:37 an107/an107 kernel: ACPI: Local APIC address 0xfee00000
+- 1144186508 2006.04.04 cn87 Apr 4 14:35:08 cn87/cn87 kernel: pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=0x1d78 (IPS: command timed out)) command 0xffffff00114ebb98
+- 1151082427 2006.06.23 an600 Jun 23 10:07:07 an600/an600 snmpd[14940]: Got trap from peer on fd 13
+- 1150676213 2006.06.18 dn393 Jun 18 17:16:53 dn393/dn393 sshd[7822]: Accepted publickey for root from ::ffff:10.100.27.9 port 56654 ssh2
+- 1141055019 2006.02.27 an520 Feb 27 07:43:39 an520/an520 kernel: Warning: acpi_table_parse(ACPI_SRAT) returned 0!
+- 1134705661 2005.12.15 bn359 Dec 15 20:01:01 bn359/bn359 crond(pam_unix)[30475]: session closed for user root
+- 1143934439 2006.04.01 dn185 Apr 1 15:33:59 dn185/dn185 kernel: pan_ips: error -- IPS command timeout command timed out expire_time=1143930812:688523000 now=1143930838:747499000 lifetime=101:058976000 grace_timeouts=0 cd=0xffffff00111a4da8 session=0x101a3a400c0 (connection info not avail 0x23a5 (pan_sock: socket not connected)) id=(123:1:20)
+- 1134907371 2005.12.18 an66 Dec 18 04:02:51 an66/an66 snmpd[1824]: Received TERM or STOP signal... shutting down...
+- 1141664724 2006.03.06 an56 Mar 6 09:05:24 an56/an56 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+- 1141871767 2006.03.08 dn770 Mar 8 18:36:07 dn770/dn770 kernel: MOSAL(1): prev = 0000000000000000
+- 1148013806 2006.05.18 cn348 May 18 21:43:26 cn348/cn348 sshd[8147]: Accepted publickey for root from ::ffff:10.100.18.92 port 45215 ssh2
+- 1136932017 2006.01.10 cn266 Jan 10 14:26:57 cn266/cn266 kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+- 1146522535 2006.05.01 an167 May 1 15:28:55 an167/an167 kernel: Freeing unused kernel memory: 188k freed
+- 1137000231 2006.01.11 bn82 Jan 11 09:23:51 bn82/bn82 sysctl: net.ipv4.neigh.default.gc_thresh1 = 8192
+- 1147040198 2006.05.07 cn484 May 7 15:16:38 cn484/cn484 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2BC0845000
+- 1141156861 2006.02.28 cn706 Feb 28 12:01:01 cn706/cn706 crond(pam_unix)[8149]: session closed for user root
+- 1139831865 2006.02.13 dn322 Feb 13 03:57:45 dn322/dn322 postfix/postdrop[658]: warning: mail_queue_enter: create file maildrop/745604.658: Read-only file system
+- 1141055385 2006.02.27 an911 Feb 27 07:49:45 an911/an911 kernel: Calibrating delay loop... 7176.19 BogoMIPS (lpj=3588096)
+- 1136246143 2006.01.02 dn189 Jan 2 15:55:43 dn189/dn189 crond[22307]: (root) CMD (run-parts /etc/cron.hourly)
+- 1143637261 2006.03.29 an505 Mar 29 05:01:01 an505/an505 crond(pam_unix)[9363]: session opened for user root by (uid=0)
+- 1149873652 2006.06.09 an810 Jun 9 10:20:52 an810/an810 kernel: Type: Processor ANSI SCSI revision: 02
+- 1136310009 2006.01.03 an892 Jan 3 09:40:09 an892/an892 kernel: selinux_register_security: Registering secondary module capability
+- 1143670717 2006.03.29 bn787 Mar 29 14:18:37 bn787/bn787 kernel: ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.VPR0._PRT]
+- 1145332615 2006.04.17 cn281 Apr 17 20:56:55 cn281/cn281 kernel: MOSAL(1): size = 0x6000
+- 1146740800 2006.05.04 tsqe2 May 4 04:06:40 tsqe2/tsqe2 sshd[556]: Remote host disconnected: Authentication cancelled by user.
+- 1137434075 2006.01.16 cn795 Jan 16 09:54:35 cn795/cn795 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments (120 dynamic MTT segments left)
+- 1151951575 2006.07.03 cn185 Jul 3 11:32:55 cn185/cn185 ntpd[2290]: synchronized to 10.100.18.250, stratum 3
+- 1143670295 2006.03.29 bn475 Mar 29 14:11:35 bn475/bn475 kernel: Copyright (c) 1999-2004 Intel Corporation.
+- 1151413258 2006.06.27 cn83 Jun 27 06:00:58 cn83/cn83 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1134147661 2005.12.09 bn714 Dec 9 09:01:01 bn714/bn714 crond[4416]: (root) CMD (run-parts /etc/cron.hourly)
+- 1137189585 2006.01.13 dn453 Jan 13 13:59:45 dn453/dn453 kernel: hub 4-0:1.0: 2 ports detected
+VAPI 1150524744 2006.06.16 en251 Jun 16 23:12:24 en251/en251 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1148020645 2006.05.18 .571 May 18 23:37:25 .571 MDT: %RPM0-P:CP %IFMGR-5-OSTATE_DN: Changed interface state to down: Gi 8/89
+- 1146178522 2006.04.27 .67 Apr 27 15:55:22 .67 MDT: %RPM0-P:CP %IFMGR-5-OSTATE_DN: Changed interface state to down: Gi 8/89
+- 1142126930 2006.03.11 #21# Mar 11 17:28:50 #21#/#21# sshd[21635]: pam_krb5[21635]: pam_close_session returning 0 (Success)
+- 1152360848 2006.07.08 en278 Jul 8 05:14:08 en278/en278 kernel: MOSAL(1): map_list = 00000101a03806e0
+- 1146676560 2006.05.03 tbird-sm1 May 3 10:16:00 tbird-sm1/tbird-sm1 ib_sm[26188]: [ib_sm_bringup.c:562]: Program port state, node=00:05:ad:00:00:02:79:e2, port= 4, current state 4, neighbor node=00:05:ad:00:00:02:79:e2, port= 7, current state 4
+- 1148550697 2006.05.25 #9# May 25 02:51:37 #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1146693570 2006.05.03 en79 May 3 14:59:30 en79/en79 kernel: MOSAL(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mlock.c[1226]: MOSAL_mlock_iobuf: Failed (MT_EAGAIN) priv_mosal_mlock for addr=0xD979000 size=0x1B000
+- 1137113306 2006.01.12 dn258 Jan 12 16:48:26 dn258/dn258 kernel: CPU: Trace cache: 12K uops, L1 D cache: 16K
+- 1143767109 2006.03.30 bn455 Mar 30 17:05:09 bn455/bn455 kernel: uhci_hcd 0000:00:1d.1: new USB bus registered, assigned bus number 3
+- 1152259261 2006.07.07 cn647 Jul 7 01:01:01 cn647/cn647 crond[13902]: (root) CMD (run-parts /etc/cron.hourly)
+- 1147448679 2006.05.12 aadmin2 May 12 08:44:39 src@aadmin2 xinetd[30793]: START: rsync pid=6997 from=10.100.3.103
+- 1135170913 2005.12.21 bn318 Dec 21 05:15:13 bn318/bn318 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1135375070 2005.12.23 dn410 Dec 23 13:57:50 dn410/dn410 crond(pam_unix)[1728]: session closed for user root
+- 1149111035 2006.05.31 dn818 May 31 14:30:35 dn818/dn818 sshd(pam_unix)[28451]: session opened for user root by (uid=0)
+- 1134266856 2005.12.10 tbird-sm1 Dec 10 18:07:36 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 1, 13, 22, 9, 5, 0, 0, 0
+- 1135319061 2005.12.22 an217 Dec 22 22:24:21 an217/an217 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1139956090 2006.02.14 cn551 Feb 14 14:28:10 cn551/cn551 postfix/postdrop[17530]: warning: mail_queue_enter: create file maildrop/749285.17530: Read-only file system
+- 1136386755 2006.01.04 an769 Jan 4 06:59:15 an769/an769 kernel: divert: not allocating divert_blk for non-ethernet device lo
+- 1151619158 2006.06.29 tsqe2 Jun 29 15:12:38 tsqe2/tsqe2 sshd[2466]: connection from "#569#"
+- 1140089821 2006.02.16 an538 Feb 16 03:37:01 an538/an538 postfix/postdrop[22211]: warning: mail_queue_enter: create file maildrop/547687.22211: Read-only file system
+- 1134436750 2005.12.12 cn1003 Dec 12 17:19:10 cn1003/cn1003 sshd(pam_unix)[28207]: session opened for user root by (uid=0)
+- 1143748973 2006.03.30 en43 Mar 30 12:02:53 en43/en43 kernel: time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1139447606 2006.02.08 an538 Feb 8 17:13:26 an538/an538 postfix/postdrop[30355]: warning: mail_queue_enter: create file maildrop/909710.30355: Read-only file system
+- 1141086433 2006.02.27 aadmin2 Feb 27 16:27:13 src@aadmin2 dhcpd: DHCPDISCOVER from 00:11:43:e3:c6:25 via eth1: network A_net: no free leases
+- 1145878306 2006.04.24 badmin1 Apr 24 04:31:46 src@badmin1 xinetd[11478]: START: rsync pid=11048 from=10.100.8.81
+- 1145964685 2006.04.25 aadmin3 Apr 25 04:31:25 src@aadmin3 xinetd[18599]: START: rsync pid=28761 from=10.100.5.99
+- 1145420144 2006.04.18 bn949 Apr 18 21:15:44 bn949/bn949 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1144346616 2006.04.06 aadmin1 Apr 6 11:03:36 src@aadmin1 xinetd[28474]: START: rsync pid=19870 from=10.100.0.14
+- 1149652861 2006.06.06 an762 Jun 6 21:01:01 an762/an762 crond(pam_unix)[24675]: session closed for user root
+- 1143640861 2006.03.29 dn997 Mar 29 06:01:01 dn997/dn997 crond(pam_unix)[25389]: session closed for user root
+- 1147121251 2006.05.08 cn795 May 8 13:47:31 cn795/cn795 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2C00BE8000
+- 1149161546 2006.06.01 dadmin1 Jun 1 04:32:26 src@dadmin1 xinetd[30488]: FAIL: rsync service_limit from=10.100.24.13
+- 1148542287 2006.05.25 #9# May 25 00:31:27 #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1135755111 2005.12.27 cn904 Dec 27 23:31:51 cn904/cn904 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1147020720 2006.05.07 cn1006 May 7 09:52:00 cn1006/cn1006 xinetd[2247]: Reading included configuration file: /etc/xinetd.d/cups-lpd [file=/etc/xinetd.d/cups-lpd] [line=17]
+- 1140732886 2006.02.23 tbird-sm1 Feb 23 14:14:46 tbird-sm1/tbird-sm1 ib_sm[17692]: [ib_sm_discovery.c:1256]: Found existing neighbor 00:06:6a:00:01:00:02:46, port= 24
+- 1143419914 2006.03.26 dn570 Mar 26 16:38:34 dn570/dn570 ntpd[2273]: synchronized to 10.100.24.250, stratum 3
+- 1143731731 2006.03.30 bn657 Mar 30 07:15:31 bn657/bn657 sysctl: net.ipv4.ip_forward = 0
+- 1144677846 2006.04.10 cn716 Apr 10 07:04:06 cn716/cn716 kernel: floppy0: no floppy controllers found
+- 1147082581 2006.05.08 #56# May 8 03:03:01 #56#/#56# crond(pam_unix)[3092]: session closed for user #57#
+- 1138228098 2006.01.25 dn502 Jan 25 14:28:18 dn502/dn502 ntpd[2273]: synchronized to 10.100.24.250, stratum 3
+- 1150506061 2006.06.16 cn928 Jun 16 18:01:01 cn928/cn928 crond[8367]: (root) CMD (run-parts /etc/cron.hourly)
+- 1136419449 2006.01.04 an503 Jan 4 16:04:09 an503/an503 netfs: Mounting other filesystems: succeeded
+- 1150543927 2006.06.17 dadmin4 Jun 17 04:32:07 src@dadmin4 xinetd[5709]: FAIL: rsync service_limit from=10.100.30.27
+- 1138554061 2006.01.29 dn469 Jan 29 09:01:01 dn469/dn469 crond(pam_unix)[32441]: session closed for user root
+- 1144955240 2006.04.13 .383 Apr 13 12:07:20 .383 MDT: %RPM1-P:CP %SEC-5-LOGOUT: Exec session is terminated for user admin on line vty0 (10.100.248.3)
+- 1147020668 2006.05.07 cn960 May 7 09:51:08 cn960/cn960 sysctl: net.ipv4.neigh.default.gc_thresh2 = 8192
+- 1136386414 2006.01.04 an179 Jan 4 06:53:34 an179/an179 kernel: BIOS-e820: 00000000fec00000 - 00000000fec90000 (reserved)
+- 1135990861 2005.12.30 an552 Dec 30 17:01:01 an552/an552 crond(pam_unix)[25785]: session closed for user root
+- 1151351854 2006.06.26 tsqe2 Jun 26 12:57:34 tsqe2/tsqe2 sshd[26597]: Local disconnected: Connection closed.
+- 1135798407 2005.12.28 tbird-sm1 Dec 28 11:33:27 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:1103]: Failed discover node test, node 5ad0000027788, port_num= 7, error code 1
+- 1141462660 2006.03.04 an694 Mar 4 00:57:40 an694/an694 snmpd[5216]: Got trap from peer on fd 13
+- 1135932974 2005.12.30 cn462 Dec 30 00:56:14 cn462/cn462 crond(pam_unix)[26394]: session closed for user root
+- 1150826440 2006.06.20 tsqe2 Jun 20 11:00:40 tsqe2/tsqe2 sshd2[12271]: Now running on #41#'s privileges.
+- 1147519864 2006.05.13 cadmin4 May 13 04:31:04 src@cadmin4 xinetd[2549]: START: rsync pid=18954 from=10.100.23.30
+- 1144371363 2006.04.06 10.100.255.6 Apr 6 17:56:03 10.100.255.6/10.100.255.6 Apr 6 18:54:42.0 MDT: %RPM0-P:CP %IFMGR-5-OSTATE_DN: Changed interface state to down: Gi 2/2
+- 1144929577 2006.04.13 cn49 Apr 13 04:59:37 cn49/cn49 ntpd[2287]: synchronized to 10.100.18.250, stratum 3
+- 1136036750 2005.12.31 tbird-sm1 Dec 31 05:45:50 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 4, 13, 8, 2, 17, 0, 0, 0
+- 1137004649 2006.01.11 dn296 Jan 11 10:37:29 dn296/dn296 xinetd[1951]: Reading included configuration file: /etc/xinetd.d/time [file=/etc/xinetd.d/time] [line=13]
+- 1146502802 2006.05.01 en351 May 1 10:00:02 en351/en351 sysctl: net.ipv4.route.gc_thresh = 8192
+- 1137088078 2006.01.12 bn1005 Jan 12 09:47:58 bn1005/bn1005 kernel: ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PALO.DOBB._PRT]
+- 1149427895 2006.06.04 tsqe2 Jun 4 06:31:35 tsqe2/tsqe2 sshd[26597]: Local disconnected: Connection closed.
+- 1143920074 2006.04.01 aadmin1 Apr 1 11:34:34 src@aadmin1 dhcpd: DHCPDISCOVER from 00:11:43:e4:bb:9d via eth1: network A_net: no free leases
+- 1147197932 2006.05.09 tbird-sm1 May 9 11:05:32 tbird-sm1/tbird-sm1 ib_sm[26188]: [ib_sm_discovery.c:1256]: Found existing neighbor 00:05:ad:00:00:03:ba:98, port= 1
+- 1145446284 2006.04.19 cn89 Apr 19 04:31:24 cn89/cn89 sshd(pam_unix)[7600]: session opened for user root by (uid=0)
+- 1135552539 2005.12.25 dn1013 Dec 25 15:15:39 dn1013/dn1013 kernel: MOSAL(1): page_shift = 12
+- 1149843933 2006.06.09 en109 Jun 9 02:05:33 en109/en109 kernel: MOSAL(1): phys_ctg = no
+- 1141763231 2006.03.07 an1 Mar 7 12:27:11 an1/an1 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+- 1136309974 2006.01.03 an284 Jan 3 09:39:34 an284/an284 ntpd: succeeded
+- 1134436857 2005.12.12 dn296 Dec 12 17:20:57 dn296/dn296 sshd(pam_unix)[29073]: session opened for user root by (uid=0)
+- 1149801579 2006.06.08 cn657 Jun 8 14:19:39 cn657/cn657 start_udev: Starting udev: succeeded
+- 1150526868 2006.06.16 en384 Jun 16 23:47:48 en384/en384 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1143670875 2006.03.29 bn175 Mar 29 14:21:15 bn175/bn175 kernel: Initializing IPsec netlink socket
+- 1140046573 2006.02.15 an538 Feb 15 15:36:13 an538/an538 postfix/postdrop[31142]: warning: mail_queue_enter: create file maildrop/176537.31142: Read-only file system
+- 1141348784 2006.03.02 #21# Mar 2 17:19:44 #21#/#21# sshd[30544]: pam_krb5[30544]: ccache dir: /tmp
+- 1146454218 2006.04.30 cn45 Apr 30 20:30:18 cn45/cn45 rpc.statd[1835]: Caught signal 15, un-registering and exiting.
+- 1135304017 2005.12.22 en127 Dec 22 18:13:37 en127/en127 sysctl: net.core.rmem_max = 262144
+- 1135643011 2005.12.26 dn866 Dec 26 16:23:31 dn866/dn866 kernel: VIPKL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/vip/obj_host_amd64_custom1_rhel4/mod_vip/mmu.c[243]: make_iobuf: MOSAL_iobuf_register failed: va=0x97A3000size=0x46000
+- 1149820796 2006.06.08 en174 Jun 8 19:39:56 en174/en174 kernel: MOSAL(1): iomem = no
+- 1140541240 2006.02.21 bn875 Feb 21 09:00:40 bn875/bn875 postfix/postdrop[30724]: warning: mail_queue_enter: create file maildrop/892746.30724: Read-only file system
+- 1144389816 2006.04.06 bn229 Apr 6 23:03:36 bn229/bn229 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+- 1141551469 2006.03.05 an58 Mar 5 01:37:49 an58/an58 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1149818795 2006.06.08 tsqe2 Jun 8 19:06:35 tsqe2/tsqe2 sshd[26356]: User #41#, coming from tbird-#2402#, authenticated.
+- 1149669403 2006.06.07 tsqe2 Jun 7 01:36:43 tsqe2/tsqe2 sshd[32355]: User #41#, coming from tbird-#2402#, authenticated.
+- 1141342954 2006.03.02 bn530 Mar 2 15:42:34 bn530/bn530 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+- 1137017165 2006.01.11 cn37 Jan 11 14:06:05 cn37/cn37 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1146456108 2006.04.30 bn585 Apr 30 21:01:48 bn585/bn585 kernel: Warning: acpi_table_parse(ACPI_SRAT) returned 0!
+- 1150074297 2006.06.11 dn696 Jun 11 18:04:57 dn696/dn696 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1141495311 2006.03.04 cadmin1 Mar 4 10:01:51 src@cadmin1 xinetd[1862]: START: rsync pid=7770 from=10.100.16.82
+- 1146354473 2006.04.29 cn922 Apr 29 16:47:53 cn922/cn922 xinetd[2258]: Reading included configuration file: /etc/xinetd.d/time-udp [file=/etc/xinetd.d/time-udp] [line=17]
+- 1152144061 2006.07.05 cn252 Jul 5 17:01:01 cn252/cn252 crond(pam_unix)[21708]: session opened for user root by (uid=0)
+- 1149321661 2006.06.03 bn424 Jun 3 01:01:01 bn424/bn424 crond(pam_unix)[30240]: session opened for user root by (uid=0)
+- 1145918703 2006.04.24 en58 Apr 24 15:45:03 en58/en58 smartd[1978]: Opened configuration file /etc/smartd.conf
+- 1144331212 2006.04.06 bn1006 Apr 6 06:46:52 bn1006/bn1006 kernel: ACPI: LAPIC_NMI (acpi_id[0x03] high edge lint[0x1])
+- 1136825608 2006.01.09 bn971 Jan 9 08:53:28 bn971/bn971 kernel: Node 0 DMA: 0*4kB 3*8kB 2*16kB 4*32kB 2*64kB 4*128kB 1*256kB 1*512kB 0*1024kB 1*2048kB 2*4096kB = 11832kB
+- 1148647190 2006.05.26 an827 May 26 05:39:50 an827/an827 kernel: MOSAL(1): prot_ctx = USER
+- 1149505321 2006.06.05 dn317 Jun 5 04:02:01 dn317/dn317 crond[19960]: (root) CMD (run-parts /etc/cron.daily)
+- 1145988241 2006.04.25 bn361 Apr 25 11:04:01 bn361/bn361 kernel: ACPI: PCI interrupt 0000:07:08.0[A] -> GSI 65 (level, low) -> IRQ 217
+- 1142374916 2006.03.14 dn378 Mar 14 14:21:56 dn378/dn378 ntpd[2277]: synchronized to 10.100.24.250, stratum 3
+- 1136203338 2006.01.02 bn509 Jan 2 04:02:18 bn509/bn509 sendmail[15191]: My unqualified host name (bn509) unknown; sleeping for retry
+- 1145329688 2006.04.17 en228 Apr 17 20:08:08 en228/en228 postfix/postdrop[22624]: warning: mail_queue_enter: create file maildrop/191704.22624: Read-only file system
+- 1136418200 2006.01.04 cn54 Jan 4 15:43:20 cn54/cn54 sshd[15106]: Accepted publickey for root from ::ffff:10.100.18.250 port 58457 ssh2
+- 1140222110 2006.02.17 bn425 Feb 17 16:21:50 bn425/bn425 postfix/postdrop[23562]: warning: mail_queue_enter: create file maildrop/724080.23562: Read-only file system
+- 1138279696 2006.01.26 tbird-sm1 Jan 26 04:48:16 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_discovery.c:1103]: Failed discover node test, node 5ad000002755c, port_num= 17, error code 1
+- 1143477797 2006.03.27 #21# Mar 27 08:43:17 #21#/#21# sshd[10260]: pam_krb5[10260]: banner: Kerberos 5
+- 1150369336 2006.06.15 en322 Jun 15 04:02:16 en322/en322 crond(pam_unix)[11616]: session closed for user root
+- 1138479601 2006.01.28 badmin1 Jan 28 12:20:01 src@badmin1 crond[25396]: (root) CMD (/projects/tbird/temps/get_temps b &> /dev/null)
+- 1140736376 2006.02.23 tbird-sm1 Feb 23 15:12:56 tbird-sm1/tbird-sm1 ib_sm[18107]: [ib_sm_discovery.c:1536]: ---- node 00:06:6a:00:01:00:01:a6 is a switch 0x42851728 0x9bf97d0
+- 1132796670 2005.11.23 bn265 Nov 23 17:44:30 bn265/bn265 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1145469913 2006.04.19 bn320 Apr 19 11:05:13 bn320/bn320 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1138181369 2006.01.25 dn868 Jan 25 01:29:29 dn868/dn868 ntpd[2273]: synchronized to 10.100.26.250, stratum 3
+- 1134416276 2005.12.12 tbird-sm1 Dec 12 11:37:56 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************
+- 1147019577 2006.05.07 cn199 May 7 09:32:57 cn199/cn199 kernel: SELinux: Unregistering netfilter hooks
+- 1136932439 2006.01.10 cn827 Jan 10 14:33:59 cn827/cn827 network: Bringing up loopback interface: succeeded
+- 1145293723 2006.04.17 bn795 Apr 17 10:08:43 bn795/bn795 sshd[6212]: Accepted publickey for root from ::ffff:10.100.15.128 port 54999 ssh2
+- 1145421273 2006.04.18 bn197 Apr 18 21:34:33 bn197/bn197 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1150341835 2006.06.14 dn146 Jun 14 20:23:55 dn146/dn146 kernel: MOSAL(1): pid=4982
+VAPI 1135920067 2005.12.29 dn825 Dec 29 21:21:07 dn825/dn825 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1142950713 2006.03.21 dn550 Mar 21 06:18:33 dn550/dn550 ntpd[2277]: synchronized to 10.100.30.250, stratum 3
+- 1147622236 2006.05.14 badmin2 May 14 08:57:16 src@badmin2 ntpd[1889]: synchronized to 10.100.4.251, stratum 2
+- 1141310857 2006.03.02 dn920 Mar 2 06:47:37 dn920/dn920 pbs_mom: Bad UID for job execution (15023) in 62856.tbird-admin2, abort attempted 16 times in job_start_error. ignoring abort request from node 10.100.5.36:15003
+- 1145309182 2006.04.17 en228 Apr 17 14:26:22 en228/en228 postfix/postdrop[18212]: warning: mail_queue_enter: create file maildrop/344790.18212: Read-only file system
+- 1140731980 2006.02.23 tbird-sm1 Feb 23 13:59:40 tbird-sm1/tbird-sm1 ib_sm[17475]: [ib_sm_discovery.c:1256]: Found existing neighbor 00:05:ad:00:00:04:01:b0, port= 1
+- 1143919393 2006.04.01 an127 Apr 1 11:23:13 an127/an127 kernel: Using ACPI (MADT) for SMP configuration information
+- 1137429938 2006.01.16 dn11 Jan 16 08:45:38 dn11/dn11 xinetd[2263]: Reading included configuration file: /etc/xinetd.d/klogin [file=/etc/xinetd.d/klogin] [line=14]
+- 1139333575 2006.02.07 dn290 Feb 7 09:32:55 dn290/dn290 ntpd[2289]: synchronized to 10.100.26.250, stratum 3
+- 1145422976 2006.04.18 bn427 Apr 18 22:02:56 bn427/bn427 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1151942791 2006.07.03 en25 Jul 3 09:06:31 en25/en25 sshd[13617]: Accepted publickey for root from ::ffff:10.100.248.3 port 34096 ssh2
+- 1144457069 2006.04.07 cn285 Apr 7 17:44:29 cn285/cn285 kernel: VIPKL(1): [create_mr] MM_bld_hh_mr failed (-252:VAPI_ENOMEM)
+- 1145616010 2006.04.21 cn244 Apr 21 03:40:10 cn244/cn244 ntpd[2285]: synchronized to 10.100.16.250, stratum 3
+- 1131757505 2005.11.11 bn226 Nov 11 17:05:05 bn226/bn226 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Unknown Temperature sensor value (in Degrees Celsius): 11.0
+- 1131671711 2005.11.10 en242 Nov 10 17:15:11 en242/en242 kernel: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+- 1146902716 2006.05.06 tsqe2 May 6 01:05:16 tsqe2/tsqe2 sshd[2481]: connection from "#569#"
+- 1137001356 2006.01.11 badmin4 Jan 11 09:42:36 src@badmin4 dhcpd: DHCPDISCOVER from 00:11:43:e4:88:53 via eth1: network B_net: no free leases
+- 1145306939 2006.04.17 bn58 Apr 17 13:48:59 bn58/bn58 kernel: ACPI: PCI interrupt 0000:00:05.0[A] -> GSI 16 (level, low) -> IRQ 169
+- 1137431402 2006.01.16 dn363 Jan 16 09:10:02 dn363/dn363 crond: crond shutdown succeeded
+- 1145419951 2006.04.18 bn345 Apr 18 21:12:31 bn345/bn345 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1140654460 2006.02.22 an222 Feb 22 16:27:40 an222/an222 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1145641307 2006.04.21 en228 Apr 21 10:41:47 en228/en228 postfix/postdrop[24151]: warning: mail_queue_enter: create file maildrop/135023.24151: Read-only file system
+- 1150182620 2006.06.13 en202 Jun 13 00:10:20 en202/en202 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_iobuf.c[126]: dump iobuf at 00000100a5b28500 :
+- 1151128861 2006.06.23 cn381 Jun 23 23:01:01 cn381/cn381 crond(pam_unix)[14942]: session opened for user root by (uid=0)
+- 1135743990 2005.12.27 dn825 Dec 27 20:26:30 dn825/dn825 kernel: THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[1597]: XHH_hob_process_local_mad: Device in FATAL state
+- 1132088670 2005.11.15 bn312 Nov 15 13:04:30 bn312/bn312 snmpd[1994]: Got trap from peer on fd 13
+- 1143670958 2006.03.29 bn704 Mar 29 14:22:38 bn704/bn704 rc.sysinit: Setting hostname bn704: succeeded
+- 1146614297 2006.05.02 dn499 May 2 16:58:17 dn499/dn499 kernel: MOSAL(1): file_pgoff = 0xb3e4
+- 1146614223 2006.05.02 dn262 May 2 16:57:03 dn262/dn262 kernel: MOSAL(1): prot_ctx = USER
+- 1147645414 2006.05.14 bn395 May 14 15:23:34 bn395/bn395 kernel: MOSAL(1): map_list = 00000101ba455920
+VAPI 1139604700 2006.02.10 dn67 Feb 10 12:51:40 dn67/dn67 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1144261546 2006.04.05 dn236 Apr 5 11:25:46 dn236/dn236 kernel: pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=0x1d78 (IPS: command timed out)) command 0xffffff00111782a0
+- 1136392962 2006.01.04 aadmin3 Jan 4 08:42:42 src@aadmin3 xinetd[16658]: START: rsync pid=25024 from=10.100.5.10
+- 1134473175 2005.12.13 bn278 Dec 13 03:26:15 bn278/bn278 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+- 1150471323 2006.06.16 #8# Jun 16 08:22:03 #8#/#8# sshd[18164]: pam_krb5[18164]: flag: validate
+- 1137433873 2006.01.16 cn500 Jan 16 09:51:13 cn500/cn500 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1138351538 2006.01.27 bn47 Jan 27 00:45:38 bn47/bn47 snmpd[16027]: Got trap from peer on fd 13
+- 1151770354 2006.07.01 #21# Jul 1 09:12:34 #21#/#21# sshd: pam_krb5[9912]: got result 0 (Success)
+- 1148559969 2006.05.25 #9# May 25 05:26:09 #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1145714461 2006.04.22 cn268 Apr 22 07:01:01 cn268/cn268 crond(pam_unix)[12196]: session opened for user root by (uid=0)
+- 1149930176 2006.06.10 tsqe2 Jun 10 02:02:56 tsqe2/tsqe2 sshd[2466]: connection from "#569#"
+- 1138506161 2006.01.28 bn763 Jan 28 19:42:41 bn763/bn763 ntpd[2279]: synchronized to 10.100.12.250, stratum 3
+- 1144962019 2006.04.13 bn973 Apr 13 14:00:19 bn973/bn973 sshd(pam_unix)[6217]: session opened for user root by (uid=0)
+- 1148564262 2006.05.25 #9# May 25 06:37:42 #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1149076615 2006.05.31 tsqe2 May 31 04:56:55 tsqe2/tsqe2 sshd[2466]: connection from "#569#"
+- 1140447352 2006.02.20 cn551 Feb 20 06:55:52 cn551/cn551 postfix/postdrop[7147]: warning: mail_queue_enter: create file maildrop/9527.7147: Read-only file system
+- 1137082457 2006.01.12 dn402 Jan 12 08:14:17 dn402/dn402 kernel: Dentry cache hash table entries: 1048576 (order: 11, 8388608 bytes)
+- 1146533285 2006.05.01 bn71 May 1 18:28:05 bn71/bn71 ntpd[2277]: synchronized to 10.100.10.250, stratum 3
+- 1144387896 2006.04.06 bn979 Apr 6 22:31:36 bn979/bn979 pbs_mom: pbs_mom shutdown succeeded
+- 1141474385 2006.03.04 cn462 Mar 4 04:13:05 cn462/cn462 ntpd[2278]: synchronized to 10.100.22.250, stratum 3
+- 1148461261 2006.05.24 an373 May 24 02:01:01 an373/an373 crond[12630]: (root) CMD (run-parts /etc/cron.hourly)
+- 1132660777 2005.11.22 tbird-admin1 Nov 22 03:59:37 local@tbird-admin1 /apps/x86_64/system/ganglia-3.0.1/sbin/gmetad[1684]: data_thread() got not answer from any [Thunderbird_D8] datasource
+- 1144087676 2006.04.03 an13 Apr 3 11:07:56 an13/an13 kernel: uhci_hcd 0000:00:1d.2: new USB bus registered, assigned bus number 4
+- 1135634559 2005.12.26 dn871 Dec 26 14:02:39 dn871/dn871 kernel: MOSAL(1): alegra_3D_alegr[492]: mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_iobuf.c:1136: MOSAL_mlock_iobuf failed - MT_EAGAIN
+- 1147285368 2006.05.10 tbird-sm1 May 10 11:22:48 tbird-sm1/tbird-sm1 ib_sm[26188]: [INFO]: Generate SM IN_SERVICE trap for GID=fe:80:00:00:00:00:00:00:00:05:ad:00:00:03:a9:c1
+- 1131884421 2005.11.13 bn644 Nov 13 04:20:21 bn644/bn644 kernel: IPv6 over IPv4 tunneling driver
+- 1145100707 2006.04.15 cadmin4 Apr 15 04:31:47 src@cadmin4 xinetd[2549]: START: rsync pid=24867 from=10.100.23.113
+- 1139932706 2006.02.14 cn551 Feb 14 07:58:26 cn551/cn551 postfix/postdrop[7147]: warning: mail_queue_enter: create file maildrop/9527.7147: Read-only file system
+- 1143240142 2006.03.24 cn404 Mar 24 14:42:22 cn404/cn404 syslog: klogd startup succeeded
+- 1147802557 2006.05.16 dn652 May 16 11:02:37 dn652/dn652 kernel: serio: i8042 KBD port at 0x60,0x64 irq 1
+- 1135504077 2005.12.25 tbird-sm1 Dec 25 01:47:57 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 4, 13, 17, 7, 10, 0, 0, 0
+- 1146843736 2006.05.05 en133 May 5 08:42:16 en133/en133 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2C00A1B000
+- 1149821227 2006.06.08 en174 Jun 8 19:47:07 en174/en174 kernel: MOSAL(1): prot_ctx = USER
+- 1136663707 2006.01.07 bn410 Jan 7 11:55:07 bn410/bn410 kernel: <ffffffffa048348c>{:panfs:pan_sock_linux_kernel_thpool_func+620}
+- 1151903151 2006.07.02 en10 Jul 2 22:05:51 en10/en10 kernel: LustreError: 8186:0:(lib-move.c:1947:LNetPut()) previously skipped 1344 similar messages
+- 1131905393 2005.11.13 tbird-admin1 Nov 13 10:09:53 local@tbird-admin1 /apps/x86_64/system/ganglia-3.0.1/sbin/gmetad[1684]: data_thread() got not answer from any [Thunderbird_A1] datasource
+- 1139362540 2006.02.07 en287 Feb 7 17:35:40 en287/en287 kernel: ACPI: MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd694
+- 1150740308 2006.06.19 tbird-sm1 Jun 19 11:05:08 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_discovery.c:1149]: Failed discover node test, node 00:05:ad:00:00:02:8b:cd, port_num= 19, error code 1
+- 1144096100 2006.04.03 cn960 Apr 3 13:28:20 cn960/cn960 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1136672263 2006.01.07 bn410 Jan 7 14:17:43 bn410/bn410 kernel: protections[]: 0 0 0
+- 1136327362 2006.01.03 an344 Jan 3 14:29:22 an344/an344 kernel: BIOS-e820: 00000000fec00000 - 00000000fec90000 (reserved)
+- 1145924316 2006.04.24 bn913 Apr 24 17:18:36 bn913/bn913 sshd[5273]: Accepted publickey for root from ::ffff:10.100.15.126 port 35635 ssh2
+- 1132850792 2005.11.24 aadmin1 Nov 24 08:46:32 src@aadmin1 sshd(pam_unix)[27334]: session opened for user root by (uid=0)
+- 1149826594 2006.06.08 en174 Jun 8 21:16:34 en174/en174 kernel: MOSAL(1): phys_ctg = no
+- 1145424153 2006.04.18 bn181 Apr 18 22:22:33 bn181/bn181 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1135664081 2005.12.26 dn866 Dec 26 22:14:41 dn866/dn866 kernel: MOSAL(1): va = 0x619C000
+- 1139885916 2006.02.13 an538 Feb 13 18:58:36 an538/an538 postfix/postdrop[31142]: warning: mail_queue_enter: create file maildrop/176537.31142: Read-only file system
+- 1132695589 2005.11.22 an330 Nov 22 13:39:49 an330/an330 kernel: ACPI: PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+- 1149408801 2006.06.04 cn318 Jun 4 01:13:21 cn318/cn318 ntpd[2270]: synchronized to 10.100.20.250, stratum 3
+- 1143768027 2006.03.30 dn434 Mar 30 17:20:27 dn434/dn434 omsad: omsad32 shutdown succeeded
+- 1141943500 2006.03.09 cn627 Mar 9 14:31:40 cn627/cn627 kernel: MOSAL(1): file_pgoff = 0x1d5cd
+- 1144802701 2006.04.11 #56# Apr 11 17:45:01 #56#/#56# crond(pam_unix)[28888]: session opened for user #57# by (uid=0)
+- 1145040786 2006.04.14 en228 Apr 14 11:53:06 en228/en228 postfix/postdrop[12328]: warning: mail_queue_enter: create file maildrop/508898.12328: Read-only file system
+- 1143835519 2006.03.31 en219 Mar 31 12:05:19 en219/en219 xinetd[2619]: Reading included configuration file: /etc/xinetd.d/echo [file=/etc/xinetd.d/echo] [line=15]
+- 1136998006 2006.01.11 dn255 Jan 11 08:46:46 dn255/dn255 rc.sysinit: Setting hostname dn255: succeeded
+- 1136170551 2006.01.01 dn87 Jan 1 18:55:51 dn87/dn87 crond(pam_unix)[17407]: session opened for user root by (uid=0)
+- 1140733105 2006.02.23 tbird-sm1 Feb 23 14:18:25 tbird-sm1/tbird-sm1 ib_sm[17692]: [ib_sm_discovery.c:1256]: Found existing neighbor 00:05:ad:00:00:04:1b:28, port= 1
+- 1146150847 2006.04.27 cn348 Apr 27 08:14:07 cn348/cn348 logger: Kickstart Install: pdsh + ssh packages
+- 1140353653 2006.02.19 cn589 Feb 19 04:54:13 cn589/cn589 ntpd[24803]: synchronized to 10.100.22.250, stratum 3
+- 1142015981 2006.03.10 #8# Mar 10 10:39:41 #8#/#8# sshd[6261]: pam_krb5[6261]: keytab: /etc/v5srvtab
+- 1149379261 2006.06.03 an816 Jun 3 17:01:01 an816/an816 crond(pam_unix)[31374]: session opened for user root by (uid=0)
+- 1150515647 2006.06.16 tbird-sm1 Jun 16 20:40:47 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_discovery.c:475]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1132676897 2005.11.22 tbird-admin1 Nov 22 08:28:17 local@tbird-admin1 /apps/x86_64/system/ganglia-3.0.1/sbin/gmetad[1684]: data_thread() got not answer from any [Thunderbird_D8] datasource
+- 1135024690 2005.12.19 tbird-sm1 Dec 19 12:38:10 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_sweep.c:1482]: No configuration change required
+- 1132197829 2005.11.16 tbird-admin1 Nov 16 19:23:49 local@tbird-admin1 /apps/x86_64/system/ganglia-3.0.1/sbin/gmetad[1684]: data_thread() got not answer from any [Thunderbird_D1] datasource
+- 1146613825 2006.05.02 dn480 May 2 16:50:25 dn480/dn480 kernel: VIPKL(1): [create_mr] MM_bld_hh_mr failed (-253:VAPI_EAGAIN)
+- 1141520121 2006.03.04 dn657 Mar 4 16:55:21 dn657/dn657 ntpd[2265]: synchronized to 10.100.28.250, stratum 3
+- 1151432888 2006.06.27 bn958 Jun 27 11:28:08 bn958/bn958 kernel: THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[1597]: XHH_hob_process_local_mad: Device in FATAL state
+- 1138302061 2006.01.26 cn173 Jan 26 11:01:01 cn173/cn173 crond(pam_unix)[26658]: session opened for user root by (uid=0)
+- 1143656329 2006.03.29 en54 Mar 29 10:18:49 en54/en54 kernel: EXT3 FS on sda6, internal journal
+- 1144454821 2006.04.07 #56# Apr 7 17:07:01 #56#/#56# crond(pam_unix)[957]: session closed for user #57#
+- 1142071201 2006.03.11 dadmin1 Mar 11 02:00:01 src@dadmin1 crond(pam_unix)[29458]: session opened for user root by (uid=0)
+- 1134121987 2005.12.09 bn318 Dec 9 01:53:07 bn318/bn318 snmpd[8014]: Got trap from peer on fd 13
+- 1139779337 2006.02.12 bn425 Feb 12 13:22:17 bn425/bn425 postfix/postdrop[22433]: warning: mail_queue_enter: create file maildrop/354423.22433: Read-only file system
+- 1138044865 2006.01.23 bn471 Jan 23 11:34:25 bn471/bn471 postfix/postdrop[3984]: warning: mail_queue_enter: create file maildrop/659671.3984: Read-only file system
+- 1135639232 2005.12.26 dn866 Dec 26 15:20:32 dn866/dn866 kernel: MOSAL(1): alegra_3D_alegr[519]: mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_iobuf.c:1136: MOSAL_mlock_iobuf failed - MT_EAGAIN
+- 1143467743 2006.03.27 bn201 Mar 27 05:55:43 bn201/bn201 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1132697918 2005.11.22 cn152 Nov 22 14:18:38 cn152/cn152 fstab-sync[2353]: removed all generated mount points
+- 1144841512 2006.04.12 cadmin1 Apr 12 04:31:52 src@cadmin1 xinetd[28023]: START: rsync pid=8195 from=10.100.17.41
+- 1137004673 2006.01.11 en43 Jan 11 10:37:53 en43/en43 kernel: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+- 1132314932 2005.11.18 dn30 Nov 18 03:55:32 dn30/dn30 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:292]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1150380372 2006.06.15 bn314 Jun 15 07:06:12 bn314/bn314 ntpd[2275]: synchronized to 10.100.12.250, stratum 3
+- 1145471220 2006.04.19 bn266 Apr 19 11:27:00 bn266/bn266 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1139181593 2006.02.05 an538 Feb 5 15:19:53 an538/an538 postfix/postdrop[29633]: warning: mail_queue_enter: create file maildrop/551265.29633: Read-only file system
+- 1148124762 2006.05.20 dadmin1 May 20 04:32:42 src@dadmin1 xinetd[17679]: START: rsync pid=24519 from=10.100.24.1
+- 1145660908 2006.04.21 dn120 Apr 21 16:08:28 dn120/dn120 kernel: MOSAL(1): map_list = 00000100bd9014e0
+- 1150293661 2006.06.14 bn916 Jun 14 07:01:01 bn916/bn916 crond[7515]: (root) CMD (run-parts /etc/cron.hourly)
+- 1145761261 2006.04.22 dn284 Apr 22 20:01:01 dn284/dn284 crond(pam_unix)[13691]: session opened for user root by (uid=0)
+- 1140732785 2006.02.23 tbird-sm1 Feb 23 14:13:05 tbird-sm1/tbird-sm1 ib_sm[17692]: [ib_sm_bringup.c:629]: Force neighbor port (node=00:06:6a:00:01:00:02:3d, port=5, state=4) to DOWN because (1) 1st sweep or (2) role change.
+- 1139983172 2006.02.14 bn417 Feb 14 21:59:32 bn417/bn417 ntpd[2275]: synchronized to 10.100.8.250, stratum 3
+- 1146358959 2006.04.29 dn615 Apr 29 18:02:39 dn615/dn615 kernel: ACPI: PCI interrupt 0000:02:05.0[A] -> GSI 34 (level, low) -> IRQ 201
+- 1137343494 2006.01.15 cn504 Jan 15 08:44:54 cn504/cn504 kernel: THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[1597]: XHH_hob_process_local_mad: Device in FATAL state
+- 1148456645 2006.05.24 bn337 May 24 00:44:05 bn337/bn337 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1150603270 2006.06.17 cn775 Jun 17 21:01:10 cn775/cn775 sshd[13348]: Accepted publickey for root from ::ffff:10.100.22.7 port 52739 ssh2
+- 1137072950 2006.01.12 bn181 Jan 12 05:35:50 bn181/bn181 snmpd[2013]: Got trap from peer on fd 13
+- 1152178801 2006.07.06 #25# Jul 6 02:40:01 #25#/#25# crond[9091]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+- 1144443351 2006.04.07 cn212 Apr 7 13:55:51 cn212/cn212 ntpd[2328]: Listening on interface wildcard, ::#123
+- 1147112970 2006.05.08 en42 May 8 11:29:30 en42/en42 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2C00933000
+- 1135763687 2005.12.28 cn415 Dec 28 01:54:47 cn415/cn415 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1132148655 2005.11.16 tbird-sm1 Nov 16 05:44:15 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:470]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1151389433 2006.06.26 bn958 Jun 26 23:23:53 bn958/bn958 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1135662969 2005.12.26 dn868 Dec 26 21:56:09 dn868/dn868 kernel: VIPKL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/vip/obj_host_amd64_custom1_rhel4/mod_vip/mmu.c[243]: make_iobuf: MOSAL_iobuf_register failed: va=0xA8BA000size=0x21000
+- 1150830179 2006.06.20 tsqe2 Jun 20 12:02:59 tsqe2/tsqe2 sshd2[11235]: Now running on #41#'s privileges.
+- 1146425275 2006.04.30 tbird-sm1 Apr 30 12:27:55 tbird-sm1/tbird-sm1 ib_sm[2133]: [ib_sm_sweep.c:1516]: No topology change
+- 1151941780 2006.07.03 #9# Jul 3 08:49:40 #9#/#9# sshd[3246]: pam_krb5[3246]: no v5 creds for user '#266#', skipping session setup
+VAPI 1132150884 2005.11.16 dn30 Nov 16 06:21:24 dn30/dn30 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1143974869 2006.04.02 an256 Apr 2 03:47:49 an256/an256 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1137000105 2006.01.11 cn1015 Jan 11 09:21:45 cn1015/cn1015 sshd(pam_unix)[16029]: session opened for user root by (uid=0)
+- 1150567919 2006.06.17 en382 Jun 17 11:11:59 en382/en382 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1146848089 2006.05.05 dn805 May 5 09:54:49 dn805/dn805 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2C0018B000
+- 1146946805 2006.05.06 an853 May 6 13:20:05 an853/an853 sysctl: net.ipv4.neigh.default.gc_thresh3 = 8192
+- 1148556545 2006.05.25 #9# May 25 04:29:05 #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1135637316 2005.12.26 tbird-sm1 Dec 26 14:48:36 src@tbird-sm1 ib_sm.x[24904]: [INFO]: Configuration caused by some ports in INIT state
+- 1143750157 2006.03.30 en3 Mar 30 12:22:37 en3/en3 kernel: pciehp: Address64 -------- Resource unparsed
+- 1140736377 2006.02.23 tbird-sm1 Feb 23 15:12:57 tbird-sm1/tbird-sm1 ib_sm[18107]: [ib_sm_discovery.c:1392]: skipping discovery of node 00:05:ad:00:00:02:6d:dc, port 14, because neighbor already verified
+- 1135485984 2005.12.24 bn201 Dec 24 20:46:24 bn201/bn201 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+- 1136790252 2006.01.08 tbird-sm1 Jan 8 23:04:12 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_discovery.c:1103]: Failed discover node test, node 5ad000002a298, port_num= 7, error code 1
+- 1149539419 2006.06.05 dadmin4 Jun 5 13:30:19 src@dadmin4 xinetd[5709]: FAIL: rsync service_limit from=10.100.31.34
+- 1145974590 2006.04.25 bn221 Apr 25 07:16:30 bn221/bn221 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_iobuf.c[126]: dump iobuf at 00000101bdfcda80 :
+- 1141736847 2006.03.07 an13 Mar 7 05:07:27 an13/an13 snmpd[12199]: Got trap from peer on fd 13
+- 1144720861 2006.04.10 bn192 Apr 10 19:01:01 bn192/bn192 crond(pam_unix)[1864]: session opened for user root by (uid=0)
+- 1133614861 2005.12.03 bn537 Dec 3 05:01:01 bn537/bn537 crond(pam_unix)[7337]: session opened for user root by (uid=0)
+- 1149842179 2006.06.09 en221 Jun 9 01:36:19 en221/en221 kernel: MOSAL(1): map_list = 00000101bc181a40
+- 1151321574 2006.06.26 cadmin3 Jun 26 04:32:54 src@cadmin3 xinetd[27221]: START: rsync pid=18245 from=10.100.21.120
+- 1149378416 2006.06.03 bn871 Jun 3 16:46:56 bn871/bn871 ntpd[2278]: synchronized to 10.100.10.250, stratum 3
+- 1147298554 2006.05.10 dn89 May 10 15:02:34 dn89/dn89 kernel: THH(1): handle_eqe_ib_events: QP event on qpn= 0x150C5E event type is VAPI_LOCAL_WQ_ACCESS_VIOL_ERROR (10), syndrome=0x3c
+- 1132696070 2005.11.22 bn469 Nov 22 13:47:50 bn469/bn469 kernel: Total HugeTLB memory allocated, 0
+- 1136897880 2006.01.10 bn971 Jan 10 04:58:00 bn971/bn971 kernel: <ffffffff8015f550>{kmem_getpages+36} <ffffffff8015fce5>{cache_alloc_refill+609}
+- 1145100684 2006.04.15 cadmin2 Apr 15 04:31:24 src@cadmin2 xinetd[29473]: START: rsync pid=10744 from=10.100.19.79
+- 1147729806 2006.05.15 an264 May 15 14:50:06 an264/an264 xinetd[2246]: Reading included configuration file: /etc/xinetd.d/krb5-telnet [file=/etc/xinetd.d/krb5-telnet] [line=13]
+- 1137521810 2006.01.17 an153 Jan 17 10:16:50 an153/an153 kernel: MOSAL(1): pid=21289
+- 1149766345 2006.06.08 badmin2 Jun 8 04:32:25 src@badmin2 xinetd[1248]: FAIL: rsync service_limit from=10.100.10.36
+- 1143813661 2006.03.31 dn639 Mar 31 06:01:01 dn639/dn639 crond(pam_unix)[5531]: session closed for user root
+- 1150250011 2006.06.13 tsqe2 Jun 13 18:53:31 tsqe2/tsqe2 sshd[24816]: Local disconnected: Connection closed.
+- 1137004122 2006.01.11 dn2 Jan 11 10:28:42 dn2/dn2 kernel: NET: Registered protocol family 17
+- 1141176038 2006.02.28 an21 Feb 28 17:20:38 an21/an21 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+- 1149505505 2006.06.05 cn487 Jun 5 04:05:05 cn487/cn487 ntpd[2266]: synchronized to 10.100.22.250, stratum 3
+- 1150572715 2006.06.17 tsqe2 Jun 17 12:31:55 tsqe2/tsqe2 sshd[22603]: authentication cancelled by user: 'Authentication cancelled by user.'
+- 1136719424 2006.01.08 bn410 Jan 8 03:23:44 bn410/bn410 kernel: <ffffffffa04dcbe7>{:panfs:pan_rm_bindcache_get_wrapper+407}
+- 1132678908 2005.11.22 tbird-admin1 Nov 22 09:01:48 local@tbird-admin1 syslog-ng[1607]: Cannot open file /var/log/syslog-ng/bn814/2005.11.22 for writing (No such file or directory)
+- 1138634983 2006.01.30 cadmin1 Jan 30 07:29:43 src@cadmin1 xinetd[19190]: START: rsync pid=22016 from=10.100.17.127
+- 1135219720 2005.12.21 an690 Dec 21 18:48:40 an690/an690 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:292]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1152337364 2006.07.07 bn449 Jul 7 22:42:44 bn449/bn449 ntpd[2287]: synchronized to 10.100.14.250, stratum 3
+- 1144099942 2006.04.03 dn959 Apr 3 14:32:22 dn959/dn959 kernel: pan_ips: error -- cmd_destroy: destroying timed out command cd=0xffffff0011194740
+- 1147130905 2006.05.08 dn295 May 8 16:28:25 dn295/dn295 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2C006DF000
+- 1137017043 2006.01.11 dn644 Jan 11 14:04:03 dn644/dn644 ts_fixup:
+- 1145043143 2006.04.14 bn373 Apr 14 12:32:23 bn373/bn373 sshd(pam_unix)[7075]: session opened for user root by (uid=0)
+- 1147019520 2006.05.07 bn1019 May 7 09:32:00 bn1019/bn1019 mount.panfs: pan_ips: error -- cfg target addresses, 0x5 (Out of memory), err_loc=1, rhel_4_amd64/release/build/panfs/ips/pan_ips_cfg.c:294 <11>May 7 09:31:51 mount.panfs: pan_ips: error -- real init, 0x5 (Out of memory), err_loc=3, rhel_4_amd64/release/build/panfs/ips/pan_ips.c:143
+- 1152144922 2006.07.05 tsqe2 Jul 5 17:15:22 tsqe2/tsqe2 sshd[13486]: Local disconnected: Connection closed.
+- 1144230531 2006.04.05 an612 Apr 5 02:48:51 an612/an612 kernel: pan_ips: error -- tx sched send, 0x2399 (pan_sock: connection reset by peer), err_loc=4, rhel_4_amd64/release/build/panfs/ips/pan_ips_tx_sched.c:675
+- 1132537364 2005.11.20 tbird-sm1 Nov 20 17:42:44 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:1103]: Failed discover node test, node 5ad000002889a, port_num= 6, error code 1
+- 1143767311 2006.03.30 cn909 Mar 30 17:08:31 cn909/cn909 kernel: usbcore: registered new driver hub
+- 1143738732 2006.03.30 dn739 Mar 30 09:12:12 dn739/dn739 kernel: ACPI: PCI interrupt 0000:00:1d.2[C] -> GSI 18 (level, low) -> IRQ 185
+- 1141837261 2006.03.08 an26 Mar 8 09:01:01 an26/an26 crond(pam_unix)[9145]: session closed for user root
+- 1145421554 2006.04.18 bn396 Apr 18 21:39:14 bn396/bn396 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments (179 dynamic MTT segments left)
+- 1133524921 2005.12.02 an670 Dec 2 04:02:01 an670/an670 crond[6037]: (root) CMD (run-parts /etc/cron.daily)
+- 1150118306 2006.06.12 dn639 Jun 12 06:18:26 dn639/dn639 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+VAPI 1151402264 2006.06.27 bn954 Jun 27 02:57:44 bn954/bn954 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1138647202 2006.01.30 dn79 Jan 30 10:53:22 dn79/dn79 pbs_mom: pbs_mom shutdown succeeded
+- 1141174322 2006.02.28 an90 Feb 28 16:52:02 an90/an90 kernel: Fusion MPT SCSI Host driver 3.02.18
+- 1143750169 2006.03.30 en138 Mar 30 12:22:49 en138/en138 omsad: omsad32 startup succeeded
+- 1148108461 2006.05.20 cn325 May 20 00:01:01 cn325/cn325 crond(pam_unix)[12357]: session closed for user root
+- 1143355367 2006.03.25 tbird-sm1 Mar 25 22:42:47 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_sweep.c:1320]: Rediscover the subnet
+VAPI 1135024997 2005.12.19 an690 Dec 19 12:43:17 an690/an690 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1144934417 2006.04.13 an538 Apr 13 06:20:17 an538/an538 kernel: usb 1-3: new high speed USB device using address 2
+- 1143919378 2006.04.01 an2 Apr 1 11:22:58 an2/an2 rc.sysinit: -e
+- 1132271840 2005.11.17 tbird-admin1 Nov 17 15:57:20 local@tbird-admin1 /apps/x86_64/system/ganglia-3.0.1/sbin/gmetad[1684]: data_thread() got not answer from any [Thunderbird_B3] datasource
+- 1140181623 2006.02.17 an538 Feb 17 05:07:03 an538/an538 postfix/postdrop[23730]: warning: mail_queue_enter: create file maildrop/836712.23730: Read-only file system
+- 1137004659 2006.01.11 dn420 Jan 11 10:37:39 dn420/dn420 kernel: NET: Registered protocol family 1
+VAPI 1136027940 2005.12.31 an690 Dec 31 03:19:00 an690/an690 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1135630830 2005.12.26 dn875 Dec 26 13:00:30 dn875/dn875 kernel: MOSAL(1): file_p = 0000000000000000
+- 1145411720 2006.04.18 en228 Apr 18 18:55:20 en228/en228 postfix/postdrop[16745]: warning: mail_queue_enter: create file maildrop/377628.16745: Read-only file system
+- 1137135222 2006.01.12 tbird-sm1 Jan 12 22:53:42 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_sweep.c:1455]: No topology change
+- 1150708288 2006.06.19 cn814 Jun 19 02:11:28 cn814/cn814 postfix/postdrop[12147]: warning: mail_queue_enter: create file maildrop/573778.12147: Read-only file system
+- 1150549353 2006.06.17 tbird-sm1 Jun 17 06:02:33 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_discovery.c:495]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 1, 7, 3, 6, 24, 0, 0, 0
+- 1140743878 2006.02.23 tbird-sm2 Feb 23 17:17:58 tbird-sm2/tbird-sm2 ib_sm[27569]: [ib_sm_bringup.c:551]: GUID=00:05:ad:00:00:02:70:b4, port=10, GUID=00:05:ad:00:00:02:70:b4, port=1 ports are already ACTIVE.
+- 1137016635 2006.01.11 dn304 Jan 11 13:57:15 dn304/dn304 kernel: hub 2-0:1.0: USB hub found
+- 1144616461 2006.04.09 an14 Apr 9 14:01:01 an14/an14 crond[27723]: (root) CMD (run-parts /etc/cron.hourly)
+- 1143145502 2006.03.23 bn331 Mar 23 12:25:02 bn331/bn331 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_iobuf.c[126]: dump iobuf at 0000010142be9c80 :
+- 1144945639 2006.04.13 an257 Apr 13 09:27:19 an257/an257 sshd(pam_unix)[3112]: session opened for user root by (uid=0)
+- 1136827927 2006.01.09 bn410 Jan 9 09:32:07 bn410/bn410 kernel: <ffffffffa04e1420>{:panfs:pan_rm_bindcache_refresher__got_pres+0}
+- 1136398000 2006.01.04 bn683 Jan 4 10:06:40 bn683/bn683 kernel: Probing IDE interface ide1...
+- 1139707726 2006.02.11 dn209 Feb 11 17:28:46 dn209/dn209 sshd[5489]: Accepted publickey for root from ::ffff:10.100.25.81 port 38991 ssh2
+- 1144333147 2006.04.06 tbird-sm1 Apr 6 07:19:07 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_sweep.c:1320]: Rediscover the subnet
+- 1131686637 2005.11.10 tbird-admin1 Nov 10 21:23:57 local@tbird-admin1 /apps/x86_64/system/ganglia-3.0.1/sbin/gmetad[1684]: Unable to write meta data for metric proc_run to RRD
+- 1149338155 2006.06.03 tsqe2 Jun 3 05:35:55 tsqe2/tsqe2 sshd[32573]: Local disconnected: Connection closed.
+- 1144230998 2006.04.05 bn917 Apr 5 02:56:38 bn917/bn917 kernel: pan_ips: error -- tx sched send, 0x2399 (pan_sock: connection reset by peer), err_loc=4, rhel_4_amd64/release/build/panfs/ips/pan_ips_tx_sched.c:675
+- 1150935897 2006.06.21 badmin2 Jun 21 17:24:57 src@badmin2 xinetd[1248]: FAIL: rsync service_limit from=10.100.10.74
+- 1147253677 2006.05.10 .132 May 10 02:34:37 .132 MDT: %RPM0-P:CP %IFMGR-5-OSTATE_UP: Changed interface state to up: Gi 8/89
+- 1143919534 2006.04.01 bn413 Apr 1 11:25:34 bn413/bn413 mount: debug: could not init rm_client: 0x5 (Out of memory)
+- 1145864196 2006.04.24 tbird-sm1 Apr 24 00:36:36 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_sweep.c:1914]: ********************** NEW SWEEP ********************
+- 1148535314 2006.05.24 #9# May 24 22:35:14 #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1136107964 2006.01.01 tbird-sm1 Jan 1 01:32:44 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 3, 13, 1, 2, 17, 0, 0, 0
+- 1150398061 2006.06.15 dn288 Jun 15 12:01:01 dn288/dn288 crond[4545]: (root) CMD (run-parts /etc/cron.hourly)
+- 1134497767 2005.12.13 an9 Dec 13 10:16:07 an9/an9 kernel: ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.
+VAPI 1136286716 2006.01.03 an690 Jan 3 03:11:56 an690/an690 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1146465343 2006.04.30 en382 Apr 30 23:35:43 en382/en382 kernel: ksign: Installing public key data
+- 1140743295 2006.02.23 tbird-sm2 Feb 23 17:08:15 tbird-sm2/tbird-sm2 ib_sm[27569]: [ib_sm_discovery.c:1392]: skipping discovery of node 00:05:ad:00:00:02:6d:de, port 3, because neighbor already verified
+- 1136334105 2006.01.03 an363 Jan 3 16:21:45 an363/an363 kernel: IOAPIC[1]: apic_id 8, version 32, address 0xfec80000, GSI 32-55
+- 1144376575 2006.04.06 en318 Apr 6 19:22:55 en318/en318 irqbalance: irqbalance startup succeeded
+- 1143538357 2006.03.28 bn691 Mar 28 01:32:37 bn691/bn691 ntpd[2277]: synchronized to 10.100.8.250, stratum 3
+- 1152236277 2006.07.06 #8# Jul 6 18:37:57 #8#/#8# fsck: /tmp:
+- 1140516074 2006.02.21 an538 Feb 21 02:01:14 an538/an538 postfix/postdrop[23986]: warning: mail_queue_enter: create file maildrop/152137.23986: Read-only file system
+- 1148971671 2006.05.29 cn1009 May 29 23:47:51 cn1009/cn1009 ntpd[2265]: synchronized to 10.100.22.250, stratum 3
+- 1145420332 2006.04.18 bn391 Apr 18 21:18:52 bn391/bn391 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1135830679 2005.12.28 dn303 Dec 28 20:31:19 dn303/dn303 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1149689392 2006.06.07 tsqe2 Jun 7 07:09:52 tsqe2/tsqe2 sshd[451]: User #41#, coming from tbird-#2402#, authenticated.
+- 1151055556 2006.06.23 tsqe2 Jun 23 02:39:16 tsqe2/tsqe2 sshd[11330]: connection lost: 'Connection closed.'
+- 1143251563 2006.03.24 en59 Mar 24 17:52:43 en59/en59 kernel: dcdbas: version magic '2.6.9-34.EL_lustre.1.4.6.1smp SMP gcc-3.4' should be '2.6.9-34.EL_lustre.1.4.6.1smp SMP gcc-3.3'
+- 1137364016 2006.01.15 tbird-sm1 Jan 15 14:26:56 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 2, 13, 24, 3, 20, 0, 0, 0
+- 1145471141 2006.04.19 bn717 Apr 19 11:25:41 bn717/bn717 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1146776564 2006.05.04 an64 May 4 14:02:44 an64/an64 sshd[15361]: Accepted publickey for root from ::ffff:10.100.248.2 port 47131 ssh2
+- 1139705909 2006.02.11 an538 Feb 11 16:58:29 an538/an538 postfix/postdrop[32635]: warning: mail_queue_enter: create file maildrop/917.32635: Read-only file system
+- 1145988733 2006.04.25 bn553 Apr 25 11:12:13 bn553/bn553 kernel: divert: allocating divert_blk for ib0
+- 1135630082 2005.12.26 tbird-sm1 Dec 26 12:48:02 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:470]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1147971814 2006.05.18 an166 May 18 10:03:34 an166/an166 kernel: ACPI: PCI interrupt 0000:07:08.0[A] -> GSI 65 (level, low) -> IRQ 217
+- 1145677027 2006.04.21 en228 Apr 21 20:37:07 en228/en228 postfix/postdrop[11929]: warning: mail_queue_enter: create file maildrop/511641.11929: Read-only file system
+- 1145420370 2006.04.18 bn359 Apr 18 21:19:30 bn359/bn359 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1146742920 2006.05.04 tsqe2 May 4 04:42:00 tsqe2/tsqe2 sshd[11582]: authentication cancelled by user: 'Authentication cancelled by user.'
+- 1147020621 2006.05.07 tbird-sm1 May 7 09:50:21 tbird-sm1/tbird-sm1 ib_sm[26188]: [INFO]: Generate SM IN_SERVICE trap for GID=fe:80:00:00:00:00:00:00:00:05:ad:00:00:04:13:61
+- 1136911653 2006.01.10 tbird-sm1 Jan 10 08:47:33 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_sweep.c:1264]: Rediscover the subnet
+- 1146358952 2006.04.29 dn568 Apr 29 18:02:32 dn568/dn568 mount.panfs: pan_ips: error -- cfg target addresses, 0x5 (Out of memory), err_loc=1, rhel_4_amd64/release/build/panfs/ips/pan_ips_cfg.c:294 <11>Apr 29 18:02:22 mount.panfs: pan_ips: error -- real init, 0x5 (Out of memory), err_loc=3, rhel_4_amd64/release/build/panfs/ips/pan_ips.c:143
+- 1144375585 2006.04.06 dn265 Apr 6 19:06:25 dn265/dn265 kernel: SCSI subsystem initialized
+- 1151167670 2006.06.24 #56# Jun 24 09:47:50 #56#/#56# postfix/qmgr[3261]: DBE53F200A6: removed
+- 1152444642 2006.07.09 an651 Jul 9 04:30:42 an651/an651 sshd(pam_unix)[21711]: session opened for user root by (uid=0)
+- 1142374223 2006.03.14 tbird-sm1 Mar 14 14:10:23 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_sweep.c:1320]: Rediscover the subnet
+- 1140497989 2006.02.20 an538 Feb 20 20:59:49 an538/an538 postfix/postdrop[15089]: warning: mail_queue_enter: create file maildrop/985535.15089: Read-only file system
+- 1148330128 2006.05.22 aadmin1 May 22 13:35:28 src@aadmin1 dhcpd: DHCPACK on 10.100.1.69 to 00:11:43:e4:ae:13 via eth1
+- 1145307006 2006.04.17 bn221 Apr 17 13:50:06 bn221/bn221 kernel: CPU: Hyper-Threading is disabled
+- 1150660861 2006.06.18 dn581 Jun 18 13:01:01 dn581/dn581 crond(pam_unix)[1691]: session opened for user root by (uid=0)
+- 1152020281 2006.07.04 tsqe2 Jul 4 06:38:01 tsqe2/tsqe2 sshd[2466]: connection from "#569#"
+- 1132695945 2005.11.22 bn586 Nov 22 13:45:45 bn586/bn586 mount: mount.panfs: failed local addresses: 10.100.140.74:1
+- 1144694662 2006.04.10 tsqe1 Apr 10 11:44:22 tsqe1/tsqe1 netfs: Mounting NFS filesystems: failed
+- 1150762781 2006.06.19 dn134 Jun 19 17:19:41 dn134/dn134 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1146510691 2006.05.01 cn759 May 1 12:11:31 cn759/cn759 kernel: MOSAL(1): prot_ctx = USER
+- 1144796479 2006.04.11 #21# Apr 11 16:01:19 #21#/#21# sshd[6059]: pam_krb5[6059]: renewable lifetime: 36000
+- 1144331536 2006.04.06 bn373 Apr 6 06:52:16 bn373/bn373 sysctl: kernel.sysrq = 1
+- 1134319587 2005.12.11 an805 Dec 11 08:46:27 an805/an805 kernel: rpc: request timed out, request 9993, pan_rm_vsmdb_get_mgr_addrs_rpc_v1 (async), to #468#:3095
+- 1135705517 2005.12.27 dn825 Dec 27 09:45:17 dn825/dn825 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:292]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1140135669 2006.02.16 bn425 Feb 16 16:21:09 bn425/bn425 postfix/postdrop[21920]: warning: mail_queue_enter: create file maildrop/3039.21920: Read-only file system
+- 1144331265 2006.04.06 an492 Apr 6 06:47:45 an492/an492 kernel: Real Time Clock Driver v1.12
+- 1141987902 2006.03.10 cn650 Mar 10 02:51:42 cn650/cn650 kernel: VIPKL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/vip/obj_host_amd64_custom1_rhel4/mod_vip/mmu.c[243]: make_iobuf: MOSAL_iobuf_register failed: va=0xB5D6000size=0x27000
+- 1152117293 2006.07.05 tsqe2 Jul 5 09:34:53 tsqe2/tsqe2 sshd2[5137]: Now running on #41#'s privileges.
+- 1137433749 2006.01.16 cn808 Jan 16 09:49:09 cn808/cn808 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments (57 dynamic MTT segments left)
+- 1139115661 2006.02.04 bn10 Feb 4 21:01:01 bn10/bn10 crond(pam_unix)[9058]: session closed for user root
+- 1131684278 2005.11.10 tbird-admin1 Nov 10 20:44:38 local@tbird-admin1 VFS: file-max limit 65536 reached
+- 1149288508 2006.06.02 tsqe2 Jun 2 15:48:28 tsqe2/tsqe2 sshd[7376]: authentication cancelled by user: 'Authentication cancelled by user.'
+- 1144183662 2006.04.04 cn965 Apr 4 13:47:42 cn965/cn965 kernel: MOSAL(1): phys_ctg = no
+- 1149729707 2006.06.07 tsqe2 Jun 7 18:21:47 tsqe2/tsqe2 sshd[6416]: Local disconnected: Connection closed.
+- 1140733302 2006.02.23 tbird-sm1 Feb 23 14:21:42 tbird-sm1/tbird-sm1 ib_sm[17692]: [ib_sm_discovery.c:1536]: ---- node 00:06:6a:00:04:00:01:7e is a switch 0x428e6a50 0x9fac3a0
+- 1147726954 2006.05.15 dn934 May 15 14:02:34 dn934/dn934 panfs: Unmounting PanFS filesystems: succeeded
+- 1132696483 2005.11.22 dn387 Nov 22 13:54:43 dn387/dn387 kernel: scsi[0]: scanning scsi channel 0 [Phy 0] for non-raid devices
+- 1147714649 2006.05.15 cadmin1 May 15 10:37:29 src@cadmin1 xinetd[28023]: START: rsync pid=15398 from=10.100.17.4
+- 1150624406 2006.06.18 tbird-sm1 Jun 18 02:53:26 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_discovery.c:1149]: Failed discover node test, node 00:05:ad:00:00:02:89:c2, port_num= 7, error code 1
+- 1137088271 2006.01.12 dn667 Jan 12 09:51:11 dn667/dn667 kernel: There is already a security framework initialized, register_security failed.
+- 1135904502 2005.12.29 tbird-sm1 Dec 29 17:01:42 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:470]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1152585934 2006.07.10 tsqe2 Jul 10 19:45:34 tsqe2/tsqe2 sshd[6016]: authentication cancelled by user: 'Authentication cancelled by user.'
+- 1144366402 2006.04.06 dn833 Apr 6 16:33:22 dn833/dn833 kernel: Node 0 DMA: 0*4kB 3*8kB 2*16kB 4*32kB 2*64kB 4*128kB 1*256kB 1*512kB 0*1024kB 1*2048kB 2*4096kB = 11832kB
+- 1136325245 2006.01.03 an392 Jan 3 13:54:05 an392/an392 sysctl: net.core.rmem_max = 262144
+- 1151152881 2006.06.24 cn353 Jun 24 05:41:21 cn353/cn353 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 511 MTT segments (70 dynamic MTT segments left)
+- 1137091697 2006.01.12 dn494 Jan 12 10:48:17 dn494/dn494 kernel: ACPI: LAPIC (acpi_id[0x03] lapic_id[0x01] disabled)
+- 1148923088 2006.05.29 cn549 May 29 10:18:08 cn549/cn549 smartd[1976]: Device: /dev/sda, Temperature changed 3 Celsius to 32 Celsius since last report
+VAPI 1135782465 2005.12.28 bn971 Dec 28 07:07:45 bn971/bn971 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1141065798 2006.02.27 en154 Feb 27 10:43:18 en154/en154 kernel: ACPI: PCI interrupt 0000:02:05.0[A] -> GSI 34 (level, low) -> IRQ 201
+- 1145420250 2006.04.18 bn631 Apr 18 21:17:30 bn631/bn631 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1145290523 2006.04.17 tsqe1 Apr 17 09:15:23 tsqe1/tsqe1 sshd[22298]: User #190#, coming from #191#, authenticated.
+- 1143669013 2006.03.29 an693 Mar 29 13:50:13 an693/an693 fsck: /var: clean, 8501/1281696 files, 134519/2560351 blocks
+- 1140469307 2006.02.20 cn551 Feb 20 13:01:47 cn551/cn551 postfix/postdrop[7793]: warning: mail_queue_enter: create file maildrop/442365.7793: Read-only file system
+- 1137175596 2006.01.13 dn124 Jan 13 10:06:36 dn124/dn124 gmond: gmond startup succeeded
+- 1135630647 2005.12.26 dn704 Dec 26 12:57:27 dn704/dn704 crond[24877]: (root) CMD (run-parts /etc/cron.hourly)
+- 1149328493 2006.06.03 tbird-sm1 Jun 3 02:54:53 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_sweep.c:1516]: No topology change
+- 1132192046 2005.11.16 tbird-admin1 Nov 16 17:47:26 local@tbird-admin1 /apps/x86_64/system/ganglia-3.0.1/sbin/gmetad[1684]: data_thread() got not answer from any [Thunderbird_D6] datasource
+- 1144231168 2006.04.05 bn849 Apr 5 02:59:28 bn849/bn849 kernel: pan_ips: error -- IPS command timeout command timed out expire_time=1144227568:123997000 now=1144227568:826750000 lifetime=75:702753000 grace_timeouts=0 cd=0xffffff0011187598 session=0x10152429080 (connection info not avail 0x23a5 (pan_sock: socket not connected)) id=(1588:1:10)
+- 1144457680 2006.04.07 an810 Apr 7 17:54:40 an810/an810 kernel: ACPI: LAPIC (acpi_id[0x04] lapic_id[0x04] disabled)
+- 1142005237 2006.03.10 dadmin1 Mar 10 07:40:37 src@dadmin1 crond(pam_unix)[9075]: session closed for user root
+- 1134067506 2005.12.08 cn273 Dec 8 10:45:06 cn273/cn273 kernel: Bootdata ok (command line is ro root=LABEL=/ tsc console=tty0 console=ttyS0,19200 rhgb quiet)
+- 1150040155 2006.06.11 dn500 Jun 11 08:35:55 dn500/dn500 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1145918598 2006.04.24 bn39 Apr 24 15:43:18 bn39/bn39 sysctl: net.core.wmem_default = 262144
+- 1140309638 2006.02.18 cn551 Feb 18 16:40:38 cn551/cn551 postfix/postdrop[7793]: warning: mail_queue_enter: create file maildrop/442365.7793: Read-only file system
+- 1144441150 2006.04.07 cn426 Apr 7 13:19:10 cn426/cn426 smartd[1980]: smartd is exiting (exit status 0)
+- 1144330536 2006.04.06 en159 Apr 6 06:35:36 en159/en159 kernel: EXT3-fs: mounted filesystem with ordered data mode.
+- 1143767505 2006.03.30 dn704 Mar 30 17:11:45 dn704/dn704 kernel: task migration cache decay timeout: 1 msecs.
+- 1144164261 2006.04.04 dn835 Apr 4 08:24:21 dn835/dn835 kernel: pan_ips: error -- IPS command timeout command timed out expire_time=1144160636:663381000 now=1144160660:964252000 lifetime=99:300871000 grace_timeouts=0 cd=0xffffff00111a09a0 session=0x10115040780 (connection info not avail 0x23a5 (pan_sock: socket not connected)) id=(4549:1:18)
+- 1147867261 2006.05.17 an805 May 17 05:01:01 an805/an805 crond[9639]: (root) CMD (run-parts /etc/cron.hourly)
+- 1150612471 2006.06.17 en382 Jun 17 23:34:31 en382/en382 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1142444347 2006.03.15 bn495 Mar 15 09:39:07 bn495/bn495 snmpd[15976]: Got trap from peer on fd 13
+- 1140400397 2006.02.19 cn551 Feb 19 17:53:17 cn551/cn551 postfix/postdrop[623]: warning: mail_queue_enter: create file maildrop/914852.623: Read-only file system
+- 1149588518 2006.06.06 aadmin1 Jun 6 03:08:38 src@aadmin1 /usr/sbin/gmetad[8292]: data_thread() got not answer from any [Thunderbird_A1] datasource
+- 1142859231 2006.03.20 tbird-sm1 Mar 20 04:53:51 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_discovery.c:475]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1151204401 2006.06.24 #9# Jun 24 20:00:01 #9#/#9# crond[8248]: pam_krb5[8248]: renewable lifetime: 36000
+- 1145470081 2006.04.19 bn569 Apr 19 11:08:01 bn569/bn569 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments (175 dynamic MTT segments left)
+- 1145483486 2006.04.19 bn780 Apr 19 14:51:26 bn780/bn780 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1136743354 2006.01.08 bn971 Jan 8 10:02:34 bn971/bn971 kernel: <ffffffffa04de096>{:panfs:pan_rm_bindcache_evaluate_state+150}
+- 1134383445 2005.12.12 #1# Dec 12 02:30:45 #1#/#1# ntpdate[19257]: step time server 10.100.0.250 offset -0.321291 sec
+- 1144334402 2006.04.06 tbird-sm1 Apr 6 07:40:02 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_sweep.c:1516]: No topology change
+- 1149354201 2006.06.03 dn692 Jun 3 10:03:21 dn692/dn692 ntpd[2294]: synchronized to 10.100.24.250, stratum 3
+- 1149334333 2006.06.03 aadmin1 Jun 3 04:32:13 src@aadmin1 xinetd[9151]: FAIL: rsync service_limit from=10.100.0.16
+- 1144332030 2006.04.06 dn705 Apr 6 07:00:30 dn705/dn705 kernel: hub 1-0:1.0: 6 ports detected
+- 1139149834 2006.02.05 an538 Feb 5 06:30:34 an538/an538 postfix/postdrop[31142]: warning: mail_queue_enter: create file maildrop/176537.31142: Read-only file system
+- 1144231700 2006.04.05 dn1021 Apr 5 03:08:20 dn1021/dn1021 kernel: pan_ips: error -- cmd_destroy: destroying timed out command cd=0xffffff0011539928
+- 1151580727 2006.06.29 eadmin1 Jun 29 04:32:07 src@eadmin1 xinetd[6567]: START: rsync pid=1777 from=10.100.32.123
+- 1140654459 2006.02.22 an244 Feb 22 16:27:39 an244/an244 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1152553390 2006.07.10 tbird-sm1 Jul 10 10:43:10 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_discovery.c:475]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1137000643 2006.01.11 cn292 Jan 11 09:30:43 cn292/cn292 xinetd[2245]: Reading included configuration file: /etc/xinetd.d/chargen-udp [file=/etc/xinetd.d/chargen-udp] [line=18]
+- 1141055234 2006.02.27 dn760 Feb 27 07:47:14 dn760/dn760 kernel: ACPI: RSDP (v000 DELL ) @ 0x00000000000fd5b0
+- 1138584970 2006.01.29 bn125 Jan 29 17:36:10 bn125/bn125 ntpd[2268]: synchronized to 10.100.8.250, stratum 3
+- 1136994679 2006.01.11 dadmin4 Jan 11 07:51:19 src@dadmin4 dhcpd: DHCPREQUEST for 10.100.30.3 (10.100.30.250) from 00:11:43:e4:75:f4 via eth1
+- 1142788202 2006.03.19 tbird-sm1 Mar 19 09:10:02 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_discovery.c:1149]: Failed discover node test, node 00:05:ad:00:00:02:7a:62, port_num= 6, error code 1
+- 1150620320 2006.06.18 cn234 Jun 18 01:45:20 cn234/cn234 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1134397847 2005.12.12 tbird-sm1 Dec 12 06:30:47 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:470]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1145602413 2006.04.20 an354 Apr 20 23:53:33 an354/an354 kernel: MOSAL(1): presto_dp_opt_t[8246]: mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_iobuf.c:1136: MOSAL_mlock_iobuf failed - MT_EAGAIN
+- 1148038296 2006.05.19 cadmin1 May 19 04:31:36 src@cadmin1 xinetd[28023]: START: rsync pid=4586 from=10.100.17.24
+- 1136386371 2006.01.04 an331 Jan 4 06:52:51 an331/an331 kernel: [IB_NET][ipoib_sarp_rewrite_send][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/host/ulp/ipoib/obj_host_amd64_custom1_rhel4/ts_ipoib/ipoib_arp.c:1008]ib0: can't find hw address for hash 00:00:00:00:00:00
+- 1145470472 2006.04.19 bn147 Apr 19 11:14:32 bn147/bn147 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1147131929 2006.05.08 dn273 May 8 16:45:29 dn273/dn273 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2C001EB000
+- 1144444587 2006.04.07 bn730 Apr 7 14:16:27 bn730/bn730 rc.sysinit: Enabling local filesystem quotas: succeeded
+- 1147123686 2006.05.08 aadmin4 May 8 14:28:06 src@aadmin4 xinetd[9520]: START: rsync pid=24771 from=10.100.6.79
+- 1141942189 2006.03.09 cn627 Mar 9 14:09:49 cn627/cn627 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_iobuf.c[126]: dump iobuf at 000001017b9a5700 :
+- 1138514461 2006.01.28 cn8 Jan 28 22:01:01 cn8/cn8 crond(pam_unix)[27815]: session opened for user root by (uid=0)
+- 1135323726 2005.12.22 tbird-sm1 Dec 22 23:42:06 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_sweep.c:411]: IB node 0x0005AD0000026E12 port 5 is INIT state
+- 1138651261 2006.01.30 dn233 Jan 30 12:01:01 dn233/dn233 crond(pam_unix)[934]: session closed for user root
+- 1140733114 2006.02.23 tbird-sm1 Feb 23 14:18:34 tbird-sm1/tbird-sm1 ib_sm[17692]: [ib_sm_bringup.c:551]: GUID=00:05:ad:00:00:02:72:7d, port=23, GUID=00:05:ad:00:00:02:72:7d, port=1 ports are already ACTIVE.
+- 1143827233 2006.03.31 en38 Mar 31 09:47:13 en38/en38 kernel: time.c: Lost 35 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1146776870 2006.05.04 cn413 May 4 14:07:50 cn413/cn413 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2BC0FCC000
+- 1151234965 2006.06.25 #2116# Jun 25 04:29:25 #2116#/#2116# RT: About to think about scrips for transaction #20047
+- 1144087261 2006.04.03 bn622 Apr 3 11:01:01 bn622/bn622 crond[28266]: (root) CMD (run-parts /etc/cron.hourly)
+- 1144445166 2006.04.07 bn963 Apr 7 14:26:06 bn963/bn963 kernel: uhci_hcd 0000:00:1d.1: new USB bus registered, assigned bus number 3
+- 1145482810 2006.04.19 bn400 Apr 19 14:40:10 bn400/bn400 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1145219225 2006.04.16 an536 Apr 16 13:27:05 an536/an536 smartd[1993]: Device: /dev/sda, Temperature changed 2 Celsius to 19 Celsius since last report
+- 1143919960 2006.04.01 cn409 Apr 1 11:32:40 cn409/cn409 kernel: ACPI: IRQ0 used by override.
+- 1150688850 2006.06.18 en251 Jun 18 20:47:30 en251/en251 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1144373326 2006.04.06 bn465 Apr 6 18:28:46 bn465/bn465 kernel: Linux version 2.6.9-15.EL.rootsmp (#7#@#9#) (gcc version 3.4.3 20050227 (Red Hat 3.4.3-22.1)) #1 SMP Tue Aug 16 12:32:24 MDT 2005
+- 1133973993 2005.12.07 tbird-sm1 Dec 7 08:46:33 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_sweep.c:254]: An existing IB node GUID 0005AD000004031D LID 4931 was removed
+- 1139859244 2006.02.13 cn200 Feb 13 11:34:04 cn200/cn200 sshd[27026]: Accepted publickey for root from ::ffff:10.100.16.250 port 42452 ssh2
+- 1132099799 2005.11.15 an539 Nov 15 16:09:59 an539/an539 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+- 1142651420 2006.03.17 an746 Mar 17 19:10:20 an746/an746 kernel: MOSAL(1): req_perm = READ | WRITE
+- 1147210364 2006.05.09 dn932 May 9 14:32:44 dn932/dn932 sshd[6802]: Accepted publickey for #113# from ::ffff:10.100.34.124 port 34113 ssh2
+- 1150162674 2006.06.12 bn444 Jun 12 18:37:54 bn444/bn444 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1152442968 2006.07.09 dn97 Jul 9 04:02:48 dn97/dn97 crond(pam_unix)[29513]: session closed for user root
+- 1136431301 2006.01.04 aadmin1 Jan 4 19:21:41 src@aadmin1 sendmail[2270]: k052LdGg002270: from=root, size=1571175, class=0, nrcpts=1, msgid=<200601050221.k052LdGg002270@aadmin1>, relay=#7#@localhost
+- 1145934080 2006.04.24 bn915 Apr 24 20:01:20 bn915/bn915 kernel: THH(1): XHH_mrwm_register_internal: rc=HH_ERR
+- 1152173368 2006.07.06 tbird-sm1 Jul 6 01:09:28 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_discovery.c:475]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1144185273 2006.04.04 an803 Apr 4 14:14:33 an803/an803 kernel: pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=0x1d78 (IPS: command timed out)) command 0xffffff00111a7e40
+- 1151996461 2006.07.04 an344 Jul 4 00:01:01 an344/an344 crond(pam_unix)[22342]: session opened for user root by (uid=0)
+- 1147019525 2006.05.07 bn977 May 7 09:32:05 bn977/bn977 smartd[1977]: smartd has fork()ed into background mode. New PID=1977.
+- 1146359113 2006.04.29 dn1003 Apr 29 18:05:13 dn1003/dn1003 kernel: ACPI: PCI interrupt 0000:00:1d.1[B] -> GSI 19 (level, low) -> IRQ 177
+- 1146946468 2006.05.06 an393 May 6 13:14:28 an393/an393 snmpd[2009]: NET-SNMP version 5.1.2
+- 1152617455 2006.07.11 eadmin2 Jul 11 04:30:55 src@eadmin2 xinetd[9129]: START: rsync pid=7466 from=10.100.34.53
+- 1145923863 2006.04.24 bn664 Apr 24 17:11:03 bn664/bn664 kernel: MOSAL(1): ref_iobuf = 0000000000000000
+- 1141560142 2006.03.05 dn692 Mar 5 04:02:22 dn692/dn692 snmpd[20706]: NET-SNMP version 5.1.2
+- 1144148529 2006.04.04 cn857 Apr 4 04:02:09 cn857/cn857 crond(pam_unix)[29066]: session closed for user root
+- 1147187014 2006.05.09 an613 May 9 08:03:34 an613/an613 sshd[29502]: Accepted publickey for root from ::ffff:10.100.248.2 port 55159 ssh2
+- 1140711774 2006.02.23 dadmin4 Feb 23 08:22:54 src@dadmin4 ntpd[1873]: synchronized to 10.100.8.251, stratum 2
+- 1132242071 2005.11.17 bn284 Nov 17 07:41:11 bn284/bn284 snmpd[1990]: Got trap from peer on fd 13
+- 1139374861 2006.02.07 bn220 Feb 7 21:01:01 bn220/bn220 crond[31977]: (root) CMD (run-parts /etc/cron.hourly)
+- 1149796555 2006.06.08 cn13 Jun 8 12:55:55 cn13/cn13 sshd[29881]: Accepted publickey for root from ::ffff:10.100.248.2 port 33539 ssh2
+- 1143523977 2006.03.27 bn207 Mar 27 21:32:57 bn207/bn207 ntpd[2222]: synchronized to 10.100.10.250, stratum 3
+- 1144183082 2006.04.04 cn93 Apr 4 13:38:02 cn93/cn93 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_iobuf.c[126]: dump iobuf at 0000010176694d00 :
+- 1140223824 2006.02.17 an538 Feb 17 16:50:24 an538/an538 postfix/postdrop[419]: warning: mail_queue_enter: create file maildrop/249153.419: Read-only file system
+- 1147620294 2006.05.14 bn154 May 14 08:24:54 bn154/bn154 smartd[1977]: Device: /dev/sda, Temperature changed -2 Celsius to 24 Celsius since last report
+- 1132451653 2005.11.19 an128 Nov 19 17:54:13 an128/an128 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+VAPI 1136050675 2005.12.31 dn825 Dec 31 09:37:55 dn825/dn825 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1149829261 2006.06.08 an157 Jun 8 22:01:01 an157/an157 crond[2717]: (root) CMD (run-parts /etc/cron.hourly)
+- 1144373345 2006.04.06 bn92 Apr 6 18:29:05 bn92/bn92 network: Bringing up interface ib0: succeeded
+- 1144330636 2006.04.06 an944 Apr 6 06:37:16 an944/an944 kernel: PID hash table entries: 4096 (order: 12, 131072 bytes)
+- 1149948684 2006.06.10 tsqe2 Jun 10 07:11:24 tsqe2/tsqe2 sshd[9979]: User #41#, coming from tbird-#2402#, authenticated.
+- 1144308223 2006.04.06 dn596 Apr 6 00:23:43 dn596/dn596 sshd(pam_unix)[31476]: session opened for user root by (uid=0)
+- 1136694890 2006.01.07 bn971 Jan 7 20:34:50 bn971/bn971 kernel:
+- 1145482182 2006.04.19 bn15 Apr 19 14:29:42 bn15/bn15 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments (179 dynamic MTT segments left)
+- 1148622730 2006.05.25 an827 May 25 22:52:10 an827/an827 kernel: MOSAL(1): prev = 0000000000000000
+- 1147114829 2006.05.08 dn447 May 8 12:00:29 dn447/dn447 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2C00CA2000
+VAPI 1148954222 2006.05.29 dn399 May 29 18:57:02 dn399/dn399 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1142021910 2006.03.10 #21# Mar 10 12:18:30 #21#/#21# sshd: pam_krb5[12409]: called to authenticate '#581#'
+- 1143934487 2006.04.01 tbird-sm1 Apr 1 15:34:47 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_discovery.c:475]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1152393662 2006.07.08 bn690 Jul 8 14:21:02 bn690/bn690 ntpd[2275]: synchronized to 10.100.10.250, stratum 3
+- 1139227674 2006.02.06 tbird-sm1 Feb 6 04:07:54 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_discovery.c:470]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1134288020 2005.12.11 cn933 Dec 11 00:00:20 cn933/cn933 crond(pam_unix)[4890]: session closed for user root
+- 1141506440 2006.03.04 #2116# Mar 4 13:07:20 #2116#/#2116# crond(pam_unix)[21087]: session closed for user root
+VAPI 1151375957 2006.06.26 cn108 Jun 26 19:39:17 cn108/cn108 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1147352010 2006.05.11 dn420 May 11 05:53:30 dn420/dn420 ntpd[2272]: synchronized to 10.100.26.250, stratum 3
+- 1146456221 2006.04.30 bn1018 Apr 30 21:03:41 bn1018/bn1018 kernel:
+- 1144444299 2006.04.07 bn584 Apr 7 14:11:39 bn584/bn584 kernel: ACPI: LAPIC_NMI (acpi_id[0x07] high edge lint[0x1])
+- 1136754534 2006.01.08 bn971 Jan 8 13:08:54 bn971/bn971 kernel: <ffffffffa0500c8f>{:panfs:pan_rpc_native_cl_bind+735}
+- 1140654624 2006.02.22 an34 Feb 22 16:30:24 an34/an34 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1143656911 2006.03.29 en344 Mar 29 10:28:31 en344/en344 kernel: ehci_hcd 0000:00:1d.7: new USB bus registered, assigned bus number 1
+- 1146784078 2006.05.04 en382 May 4 16:07:58 en382/en382 kernel: MOSAL(1): need_page_secure = no
+- 1152276438 2006.07.07 tsqe2 Jul 7 05:47:18 tsqe2/tsqe2 sshd[18643]: Remote host disconnected: Authentication cancelled by user.
+- 1149504038 2006.06.05 tsqe2 Jun 5 03:40:38 tsqe2/tsqe2 sshd[2466]: connection from "#569#"
+- 1140640185 2006.02.22 an538 Feb 22 12:29:45 an538/an538 postfix/postdrop[15235]: warning: mail_queue_enter: create file maildrop/234973.15235: Read-only file system
+- 1143670201 2006.03.29 bn296 Mar 29 14:10:01 bn296/bn296 sysctl: net.core.wmem_max = 262144
+- 1145682062 2006.04.21 an60 Apr 21 22:01:02 an60/an60 crond[10181]: (root) CMD (run-parts /etc/cron.hourly)
+- 1150499621 2006.06.16 en13 Jun 16 16:13:41 en13/en13 kernel: LustreError: 7936:0:(client.c:951:ptlrpc_expire_one_request()) previously skipped 1404 similar messages
+- 1136310026 2006.01.03 an118 Jan 3 09:40:26 an118/an118 kernel: Copyright (c) 1999-2005 LSI Logic Corporation
+- 1136507389 2006.01.05 bn453 Jan 5 16:29:49 bn453/bn453 ntpd[2283]: synchronized to 10.100.14.250, stratum 3
+- 1149831810 2006.06.08 en224 Jun 8 22:43:30 en224/en224 kernel: MOSAL(1): va = 0x2D309000
+VAPI 1148038460 2006.05.19 cn696 May 19 04:34:20 cn696/cn696 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1143122461 2006.03.23 an591 Mar 23 06:01:01 an591/an591 crond(pam_unix)[9613]: session opened for user root by (uid=0)
+- 1133833357 2005.12.05 tbird-sm1 Dec 5 17:42:37 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************
+- 1147275060 2006.05.10 tbird-sm1 May 10 08:31:00 tbird-sm1/tbird-sm1 ib_sm[26188]: [ib_sm_sweep.c:1553]: No configuration change required
+- 1136574565 2006.01.06 an306 Jan 6 11:09:25 an306/an306 sysctl: net.ipv4.neigh.default.gc_thresh1 = 8192
+- 1149171205 2006.06.01 tsqe2 Jun 1 07:13:25 tsqe2/tsqe2 sshd[27295]: connection lost: 'Connection closed.'
+- 1141373366 2006.03.03 an810 Mar 3 00:09:26 an810/an810 sysctl: net.ipv4.ip_forward = 0
+- 1132405518 2005.11.19 bn493 Nov 19 05:05:18 bn493/bn493 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1136931680 2006.01.10 bn370 Jan 10 14:21:20 bn370/bn370 kernel: hub 4-0:1.0: USB hub found
+- 1149696052 2006.06.07 bn116 Jun 7 09:00:52 bn116/bn116 sshd(pam_unix)[30544]: session opened for user root by (uid=0)
+- 1146456624 2006.04.30 cn54 Apr 30 21:10:24 cn54/cn54 kernel: Using ACPI (MADT) for SMP configuration information
+- 1151667156 2006.06.30 cadmin1 Jun 30 04:32:36 src@cadmin1 xinetd[11431]: START: rsync pid=2472 from=10.100.17.90
+- 1144331273 2006.04.06 an504 Apr 6 06:47:53 an504/an504 ntpd[2275]: ntpd #2#@1.1190-r Mon Oct 11 09:15:58 EDT 2004 (1)
+- 1147116035 2006.05.08 cn857 May 8 12:20:35 cn857/cn857 kernel: hub 1-0:1.0: USB hub found
+- 1142689835 2006.03.18 dadmin1 Mar 18 05:50:35 src@dadmin1 crond(pam_unix)[15737]: session closed for user root
+- 1151352730 2006.06.26 bn997 Jun 26 13:12:10 bn997/bn997 sysctl: vm.min_free_kbytes = 314572
+- 1149683825 2006.06.07 10.100.255.2 Jun 7 05:37:05 10.100.255.2/10.100.255.2 Jun 7 06:36:56.199 MDT: %RPM0-P:CP %IFMGR-5-OSTATE_UP: Changed interface state to up: Gi 6/64
+- 1148851025 2006.05.28 cadmin2 May 28 14:17:05 src@cadmin2 dhcpd: DHCPDISCOVER from 00:11:43:e0:da:81 via eth1: network C_net: no free leases
+- 1135553646 2005.12.25 dn1013 Dec 25 15:34:06 dn1013/dn1013 kernel: MOSAL(1): iomem = no
+- 1137432156 2006.01.16 cn1012 Jan 16 09:22:36 cn1012/cn1012 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments (100 dynamic MTT segments left)
+- 1150704241 2006.06.19 cn814 Jun 19 01:04:01 cn814/cn814 postfix/postdrop[11247]: warning: mail_queue_enter: create file maildrop/76575.11247: Read-only file system
+- 1140528263 2006.02.21 cn551 Feb 21 05:24:23 cn551/cn551 postfix/postdrop[17646]: warning: mail_queue_enter: create file maildrop/78621.17646: Read-only file system
+VAPI 1150633645 2006.06.18 en256 Jun 18 05:27:25 en256/en256 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1136931462 2006.01.10 bn282 Jan 10 14:17:42 bn282/bn282 kernel: PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+- 1139822298 2006.02.13 dn322 Feb 13 01:18:18 dn322/dn322 postfix/postdrop[481]: warning: mail_queue_enter: create file maildrop/488069.481: Read-only file system
+- 1140247261 2006.02.17 cn551 Feb 17 23:21:01 cn551/cn551 postfix/postdrop[7147]: warning: mail_queue_enter: create file maildrop/9527.7147: Read-only file system
+- 1147123770 2006.05.08 badmin3 May 8 14:29:30 src@badmin3 xinetd[18917]: START: rsync pid=16684 from=10.100.13.124
+- 1137499404 2006.01.17 bn370 Jan 17 04:03:24 bn370/bn370 sendmail[27616]: k0HB3OWw027616: from=root, size=1289, class=0, nrcpts=1, msgid=<200601171103.k0HB3OWw027616@bn370>, relay=#7#@localhost
+- 1140654414 2006.02.22 an221 Feb 22 16:26:54 an221/an221 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments (146 dynamic MTT segments left)
+- 1149747454 2006.06.07 en65 Jun 7 23:17:34 en65/en65 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_iobuf.c[126]: dump iobuf at 00000100ae7cf480 :
+- 1143670825 2006.03.29 dn516 Mar 29 14:20:25 dn516/dn516 kernel: EXT3 FS on sda1, internal journal
+- 1139133661 2006.02.05 an273 Feb 5 02:01:01 an273/an273 crond[9036]: (root) CMD (run-parts /etc/cron.hourly)
+- 1131671971 2005.11.10 tbird-sm1 Nov 10 17:19:31 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_assign.c:568]: Force port to go down due to LID conflict, node - GUID=5ad000004741c, port=1
+- 1135646888 2005.12.26 dn866 Dec 26 17:28:08 dn866/dn866 kernel: MOSAL(1): map_list = 00000100aad26da0
+- 1131978388 2005.11.14 tbird-sm1 Nov 14 06:26:28 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 2, 13, 11, 11, 9, 0, 0, 0
+- 1143768516 2006.03.30 dn883 Mar 30 17:28:36 dn883/dn883 sysctl: net.ipv4.conf.default.accept_source_route = 0
+- 1141932307 2006.03.09 cn627 Mar 9 11:25:07 cn627/cn627 kernel: MOSAL(1): file_pgoff = 0x1d5cd
+- 1147649985 2006.05.14 bn395 May 14 16:39:45 bn395/bn395 kernel: MOSAL(1): req_perm = READ | WRITE
+- 1148583725 2006.05.25 an265 May 25 12:02:05 an265/an265 kernel: Placing software IO TLB between 0x7eb5000 - 0xbeb5000
+- 1149757247 2006.06.08 badmin2 Jun 8 02:00:47 src@badmin2 dhcpd: DHCPDISCOVER from 00:11:43:de:04:5e via eth1: network B_net: no free leases
+- 1150234164 2006.06.13 bn550 Jun 13 14:29:24 bn550/bn550 kernel: kjournald starting. Commit interval 5 seconds
+- 1136264138 2006.01.02 dn927 Jan 2 20:55:38 dn927/dn927 crond(pam_unix)[17944]: session closed for user root
+- 1139263261 2006.02.06 dn945 Feb 6 14:01:01 dn945/dn945 crond[468]: (root) CMD (run-parts /etc/cron.hourly)
+- 1142510521 2006.03.16 bn1007 Mar 16 04:02:01 bn1007/bn1007 crond(pam_unix)[11813]: session opened for user root by (uid=0)
+- 1146779167 2006.05.04 an182 May 4 14:46:07 an182/an182 kernel: divert: allocating divert_blk for ib1
+- 1146455147 2006.04.30 bn184 Apr 30 20:45:47 bn184/bn184 kernel: CPU: Hyper-Threading is disabled
+- 1144331518 2006.04.06 bn173 Apr 6 06:51:58 bn173/bn173 sysctl: net.ipv4.conf.default.rp_filter = 1
+- 1150160071 2006.06.12 bn562 Jun 12 17:54:31 bn562/bn562 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1140443497 2006.02.20 an538 Feb 20 05:51:37 an538/an538 postfix/postdrop[32163]: warning: mail_queue_enter: create file maildrop/745311.32163: Read-only file system
+- 1151923377 2006.07.03 cn541 Jul 3 03:42:57 cn541/cn541 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1151419464 2006.06.27 aadmin1 Jun 27 07:44:24 src@aadmin1 /usr/sbin/gmetad[8292]: data_thread() got not answer from any [Thunderbird_A1] datasource
+- 1144677896 2006.04.10 dn302 Apr 10 07:04:56 dn302/dn302 kernel: e1000: eth0: e1000_watchdog: NIC Link is Up 1000 Mbps Full Duplex
+- 1132757645 2005.11.23 an878 Nov 23 06:54:05 an878/an878 snmpd[3955]: Got trap from peer on fd 13
+- 1144098329 2006.04.03 dn715 Apr 3 14:05:29 dn715/dn715 kernel: pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=0x1d78 (IPS: command timed out)) command 0xffffff00115468a8
+- 1138064357 2006.01.23 en88 Jan 23 16:59:17 en88/en88 ntpd[2395]: can't open /var/lib/ntp/drift.TEMP: Permission denied
+EXT_FS 1137559129 2006.01.17 an191 Jan 17 20:38:49 an191/an191 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+- 1141924280 2006.03.09 cn650 Mar 9 09:11:20 cn650/cn650 kernel: MOSAL(1): page_shift = 12
+- 1141348622 2006.03.02 #21# Mar 2 17:17:02 #21#/#21# sshd[28067]: pam_krb5[28067]: pam_acct_mgmt returning 7 (Authentication failure)
+- 1146448349 2006.04.30 cn997 Apr 30 18:52:29 cn997/cn997 sshd[26348]: Accepted publickey for root from ::ffff:10.100.22.250 port 39173 ssh2
+- 1149184135 2006.06.01 tsqe2 Jun 1 10:48:55 tsqe2/tsqe2 sshd[13214]: User #41#, coming from tbird-#2402#, authenticated.
+- 1147847650 2006.05.16 cn702 May 16 23:34:10 cn702/cn702 ntpd[2276]: synchronized to 10.100.18.250, stratum 3
+- 1147952762 2006.05.18 .787 May 18 04:46:02 .787 MDT: %RPM0-P:CP %IFMGR-5-OSTATE_UP: Changed interface state to up: Gi 8/89
+- 1148672070 2006.05.26 tsqe1 May 26 12:34:30 tsqe1/tsqe1 sshd2[28959]: Now running on #29#'s privileges.
+- 1134332569 2005.12.11 an278 Dec 11 12:22:49 an278/an278 kernel: rpc: request timed out, request 10169, pan_rm_vsmdb_get_mgr_addrs_rpc_v1 (async), to #468#:3095
+- 1137081161 2006.01.12 tbird-sm1 Jan 12 07:52:41 src@tbird-sm1 ib_sm.x[15679]: [INFO]: Generate SM OUT_OF_SERVICE trap for GID=0x000000fe800000000005ad000004003d
+- 1145152862 2006.04.15 dn320 Apr 15 19:01:02 dn320/dn320 crond(pam_unix)[13599]: session closed for user root
+- 1152536238 2006.07.10 tbird-sm1 Jul 10 05:57:18 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_sweep.c:1320]: Rediscover the subnet
+- 1144373223 2006.04.06 an528 Apr 6 18:27:03 an528/an528 kernel: Linux version 2.6.9-15.EL.rootsmp (#7#@#9#) (gcc version 3.4.3 20050227 (Red Hat 3.4.3-22.1)) #1 SMP Tue Aug 16 12:32:24 MDT 2005
+- 1140223396 2006.02.17 bn875 Feb 17 16:43:16 bn875/bn875 postfix/postdrop[30393]: warning: mail_queue_enter: create file maildrop/411615.30393: Read-only file system
+- 1142272862 2006.03.13 bn981 Mar 13 10:01:02 bn981/bn981 crond(pam_unix)[7236]: session closed for user root
+- 1140736365 2006.02.23 tbird-sm1 Feb 23 15:12:45 tbird-sm1/tbird-sm1 ib_sm[18107]: [ib_sm_bringup.c:629]: Force neighbor port (node=00:05:ad:00:00:04:22:10, port=1, state=4) to DOWN because (1) 1st sweep or (2) role change.
+- 1143768365 2006.03.30 bn260 Mar 30 17:26:05 bn260/bn260 kernel: IOAPIC[2]: apic_id 9, version 32, address 0xfec83000, GSI 64-87
+- 1144069261 2006.04.03 bn264 Apr 3 06:01:01 bn264/bn264 crond(pam_unix)[27994]: session opened for user root by (uid=0)
+- 1143243453 2006.03.24 en1 Mar 24 15:37:33 en1/en1 last message repeated 6 times
+- 1146456061 2006.04.30 an103 Apr 30 21:01:01 an103/an103 crond(pam_unix)[3001]: session closed for user root
+- 1145591949 2006.04.20 tbird-sm1 Apr 20 20:59:09 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_discovery.c:475]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1149195303 2006.06.01 tsqe2 Jun 1 13:55:03 tsqe2/tsqe2 sshd[16384]: connection lost: 'Connection closed.'
+- 1147019884 2006.05.07 dn248 May 7 09:38:04 dn248/dn248 kernel: Calibrating delay loop... 7176.19 BogoMIPS (lpj=3588096)
+- 1144266149 2006.04.05 dn1020 Apr 5 12:42:29 dn1020/dn1020 kernel: pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=0x1d78 (IPS: command timed out)) command 0x10170283000
+- 1137089604 2006.01.12 dn590 Jan 12 10:13:24 dn590/dn590 smartd[1978]: smartd is exiting (exit status 0)
+- 1137183164 2006.01.13 dn700 Jan 13 12:12:44 dn700/dn700 kernel: Built 1 zonelists
+- 1135277535 2005.12.22 an690 Dec 22 10:52:15 an690/an690 kernel: THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[1597]: XHH_hob_process_local_mad: Device in FATAL state
+- 1133539261 2005.12.02 an1011 Dec 2 08:01:01 an1011/an1011 crond(pam_unix)[6375]: session opened for user root by (uid=0)
+- 1150970461 2006.06.22 bn161 Jun 22 03:01:01 bn161/bn161 crond(pam_unix)[4203]: session closed for user root
+- 1139914861 2006.02.14 cn538 Feb 14 03:01:01 cn538/cn538 crond(pam_unix)[20679]: session closed for user root
+- 1148535782 2006.05.24 #9# May 24 22:43:02 #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1141134361 2006.02.28 cn692 Feb 28 05:46:01 cn692/cn692 smartd[1967]: Device: /dev/sda, Temperature changed -3 Celsius to 29 Celsius since last report
+- 1141312751 2006.03.02 dn920 Mar 2 07:19:11 dn920/dn920 pbs_mom: Bad UID for job execution (15023) in 62856.tbird-admin2, job_start_error from node 10.100.5.53:15003 in job_start_error
+- 1137004265 2006.01.11 dn143 Jan 11 10:31:05 dn143/dn143 xinetd[1952]: Reading included configuration file: /etc/xinetd.d/daytime [file=/etc/xinetd.d/daytime] [line=11]
+- 1148682994 2006.05.26 #2116# May 26 15:36:34 #2116#/#2116# RT: About to think about scrips for transaction #675
+- 1146509409 2006.05.01 dn826 May 1 11:50:09 dn826/dn826 kernel: MOSAL(1): file_shared = no
+- 1137091580 2006.01.12 dn39 Jan 12 10:46:20 dn39/dn39 pbs_mom: pbs_mom startup succeeded
+- 1144375662 2006.04.06 cn825 Apr 6 19:07:42 cn825/cn825 kernel: ACPI: PCI interrupt 0000:02:05.0[A] -> GSI 34 (level, low) -> IRQ 201
+- 1144099943 2006.04.03 dn978 Apr 3 14:32:23 dn978/dn978 kernel: obsd_client: obsd_client: command timed out READ options=0x0 obj_id=I-xD060039bc122f0001-xGf5edfff4-xU482c7aec2fe9f1d9 starting_byte=1114112 length=51692 get_attributes=0x0 realmname panfs1 dev_id=0x60039bc122f0001 flags=0x0 res_buffer=(0x0:0) callback(_{a0653980}_, 0xffffff0011afb080, 0xffffff00114ea670) allocated_by_sam=YES
+- 1143835523 2006.03.31 en350 Mar 31 12:05:23 en350/en350 kernel: md: ... autorun DONE.
+- 1143836204 2006.03.31 dn539 Mar 31 12:16:44 dn539/dn539 kernel: MOSAL(1): phys_ctg = no
+- 1149787276 2006.06.08 eadmin2 Jun 8 10:21:16 src@eadmin2 xinetd[25868]: FAIL: rsync service_limit from=10.100.33.101
+- 1141348004 2006.03.02 #21# Mar 2 17:06:44 #21#/#21# sshd[21928]: pam_krb5[21928]: no v5 creds for user '#126#', skipping session cleanup
+- 1143919588 2006.04.01 an371 Apr 1 11:26:28 an371/an371 kernel: EXT3 FS on sda5, internal journal
+- 1151653750 2006.06.30 tbird-sm1 Jun 30 00:49:10 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_sweep.c:1914]: ********************** NEW SWEEP ********************
+- 1145919825 2006.04.24 bn250 Apr 24 16:03:45 bn250/bn250 smartd[1984]: smartd version 5.33 [x86_64-redhat-linux-gnu] Copyright (C) 2002-4 Bruce Allen
+- 1149387325 2006.06.03 tsqe2 Jun 3 19:15:25 tsqe2/tsqe2 sshd[2466]: connection from "#569#"
+- 1140165197 2006.02.17 an538 Feb 17 00:33:17 an538/an538 postfix/postdrop[419]: warning: mail_queue_enter: create file maildrop/249153.419: Read-only file system
+- 1144093090 2006.04.03 #8# Apr 3 12:38:10 #8#/#8# sshd: pam_krb5[27186]: flag: no krb4_convert
+- 1135549308 2005.12.25 dn1013 Dec 25 14:21:48 dn1013/dn1013 kernel: MOSAL(1): pid=1014
+- 1140656452 2006.02.22 an36 Feb 22 17:00:52 an36/an36 kernel: VFS: Mounted root (ext2 filesystem).
+- 1145470553 2006.04.19 bn86 Apr 19 11:15:53 bn86/bn86 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1134179190 2005.12.09 bn278 Dec 9 17:46:30 bn278/bn278 snmpd[7939]: Got trap from peer on fd 13
+- 1132043542 2005.11.15 tbird-admin1 Nov 15 00:32:22 local@tbird-admin1 /apps/x86_64/system/ganglia-3.0.1/sbin/gmetad[1684]: data_thread() got not answer from any [Thunderbird_C2] datasource
+- 1141116774 2006.02.28 tbird-sm1 Feb 28 00:52:54 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_discovery.c:475]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1147086128 2006.05.08 #21# May 8 04:02:08 #21#/#21# crond(pam_unix)[27112]: session closed for user root
+- 1148620222 2006.05.25 an827 May 25 22:10:22 an827/an827 kernel: MOSAL(1): size = 0x4000
+- 1145697669 2006.04.22 tbird-sm1 Apr 22 02:21:09 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_discovery.c:475]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1145481607 2006.04.19 bn9 Apr 19 14:20:07 bn9/bn9 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1139166061 2006.02.05 dn772 Feb 5 11:01:01 dn772/dn772 crond(pam_unix)[5959]: session closed for user root
+- 1150467009 2006.06.16 tsqe2 Jun 16 07:10:09 tsqe2/tsqe2 sshd[2466]: connection from "#569#"
+- 1144373358 2006.04.06 bn444 Apr 6 18:29:18 bn444/bn444 ntpd: succeeded
+- 1145486628 2006.04.19 an538 Apr 19 15:43:48 an538/an538 xinetd[2278]: Started working: 0 available services
+- 1148574032 2006.05.25 #9# May 25 09:20:32 #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1147020686 2006.05.07 dn999 May 7 09:51:26 dn999/dn999 kernel: activating NMI Watchdog ... done.
+- 1147019661 2006.05.07 cn490 May 7 09:34:21 cn490/cn490 kernel: testing NMI watchdog ... OK.
+- 1147951935 2006.05.18 cadmin4 May 18 04:32:15 src@cadmin4 xinetd[2549]: START: rsync pid=20105 from=10.100.23.38
+- 1146814833 2006.05.05 tsqe2 May 5 00:40:33 tsqe2/tsqe2 sshd[30670]: connection lost: 'Connection closed.'
+- 1146666977 2006.05.03 tbird-sm1 May 3 07:36:17 tbird-sm1/tbird-sm1 ib_sm[2133]: [ib_sm_sweep.c:1516]: No topology change
+- 1137003276 2006.01.11 dn313 Jan 11 10:14:36 dn313/dn313 ntpd: ntpd startup succeeded
+- 1145303145 2006.04.17 tbird-sm1 Apr 17 12:45:45 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_discovery.c:495]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 4, 13, 15, 1, 17, 0, 0, 0
+- 1145483725 2006.04.19 bn717 Apr 19 14:55:25 bn717/bn717 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1136484300 2006.01.05 an159 Jan 5 10:05:00 an159/an159 dhclient: bound to 10.100.1.31 -- renewal in 2147483648 seconds.
+- 1147433551 2006.05.12 en52 May 12 04:32:31 en52/en52 sshd[12526]: Accepted publickey for root from ::ffff:10.100.32.250 port 56704 ssh2
+- 1145630203 2006.04.21 bn348 Apr 21 07:36:43 bn348/bn348 kernel: ts_kernel_services: module license 'Proprietary' taints kernel.
+- 1136483535 2006.01.05 cn768 Jan 5 09:52:15 cn768/cn768 kernel: ACPI: IOAPIC (id[0x09] address[0xfec83000] gsi_base[64])
+- 1150550232 2006.06.17 en383 Jun 17 06:17:12 en383/en383 kernel: THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[1597]: XHH_hob_process_local_mad: Device in FATAL state
+- 1148583834 2006.05.25 #9# May 25 12:03:54 #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1132354614 2005.11.18 dn30 Nov 18 14:56:54 dn30/dn30 kernel: THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[1597]: XHH_hob_process_local_mad: Device in FATAL state
+- 1142636680 2006.03.17 bn598 Mar 17 15:04:40 bn598/bn598 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1145963463 2006.04.25 cn495 Apr 25 04:11:03 cn495/cn495 ntpd[2288]: synchronized to 10.100.20.250, stratum 3
+- 1146172332 2006.04.27 cadmin1 Apr 27 14:12:12 src@cadmin1 dhcpd: DHCPDISCOVER from 00:11:43:d8:4d:7f via eth1: network C_net: no free leases
+- 1149942773 2006.06.10 cn117 Jun 10 05:32:53 cn117/cn117 ntpd[2278]: synchronized to 10.100.20.250, stratum 3
+- 1148606501 2006.05.25 cn716 May 25 18:21:41 cn716/cn716 sysctl: net.ipv4.ip_forward = 0
+- 1151542313 2006.06.28 tsqe2 Jun 28 17:51:53 tsqe2/tsqe2 sshd[1007]: connection lost: 'Connection closed.'
+- 1144452341 2006.04.07 cn866 Apr 7 16:25:41 cn866/cn866 sshd[3369]: Accepted publickey for root from ::ffff:10.100.248.3 port 51737 ssh2
+- 1150936107 2006.06.21 cadmin3 Jun 21 17:28:27 src@cadmin3 dhcpd: in your dhcpd.conf file for the network segment
+- 1132285860 2005.11.17 an45 Nov 17 19:51:00 an45/an45 snmpd[1991]: Got trap from peer on fd 13
+- 1146350209 2006.04.29 cr4iblsw2 Apr 29 15:36:49 cr4iblsw2/cr4iblsw2 port_mgr.x[556]: [INFO]: port down - port=1/17, type=ib4xTX
+- 1144950118 2006.04.13 en228 Apr 13 10:41:58 en228/en228 postfix/postdrop[12328]: warning: mail_queue_enter: create file maildrop/508898.12328: Read-only file system
+- 1149778418 2006.06.08 tsqe2 Jun 8 07:53:38 tsqe2/tsqe2 sshd[2466]: connection from "#569#"
+- 1139363089 2006.02.07 en50 Feb 7 17:44:49 en50/en50 ntpdate[2315]: step time server 10.100.32.250 offset -0.551744 sec
+- 1142446296 2006.03.15 dn946 Mar 15 10:11:36 dn946/dn946 kernel: <ffffffffa0567540>{:panfs:pan_ips_wire_scsi_cmd_out+1888}
+- 1150720140 2006.06.19 tsqe2 Jun 19 05:29:00 tsqe2/tsqe2 sshd[3215]: User #41#, coming from tbird-#2402#, authenticated.
+- 1141054981 2006.02.27 cn498 Feb 27 07:43:01 cn498/cn498 mount: debug: could not init rm_client: 0x5 (Out of memory)
+- 1140818616 2006.02.24 bn344 Feb 24 14:03:36 bn344/bn344 dataeng: dcevt32d shutdown succeeded
+- 1139368627 2006.02.07 an538 Feb 7 19:17:07 an538/an538 postfix/postdrop[6535]: warning: mail_queue_enter: create file maildrop/299163.6535: Read-only file system
+- 1135884870 2005.12.29 tbird-sm1 Dec 29 11:34:30 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:1103]: Failed discover node test, node 5ad0000026d2d, port_num= 12, error code 1
+- 1145094356 2006.04.15 en228 Apr 15 02:45:56 en228/en228 postfix/postdrop[18212]: warning: mail_queue_enter: create file maildrop/344790.18212: Read-only file system
+- 1145421276 2006.04.18 bn191 Apr 18 21:34:36 bn191/bn191 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1152343120 2006.07.08 tsqe2 Jul 8 00:18:40 tsqe2/tsqe2 sshd[25351]: connection lost: 'Connection closed.'
+- 1137433957 2006.01.16 cn846 Jan 16 09:52:37 cn846/cn846 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1135318043 2005.12.22 tbird-sm1 Dec 22 22:07:23 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:470]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1137091510 2006.01.12 dn122 Jan 12 10:45:10 dn122/dn122 kernel: divert: not allocating divert_blk for non-ethernet device lo
+- 1145347766 2006.04.18 tbird-sm1 Apr 18 01:09:26 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_sweep.c:1503]: Topology changed
+- 1148383954 2006.05.23 cadmin2 May 23 04:32:34 src@cadmin2 xinetd[29473]: START: rsync pid=6429 from=10.100.18.3
+- 1136386489 2006.01.04 an707 Jan 4 06:54:49 an707/an707 kernel: panfs mount: Dribble Writes mode is enabled
+- 1151774417 2006.07.01 en23 Jul 1 10:20:17 en23/en23 kernel: LustreError: 7901:0:(lib-move.c:1237:lnet_send()) previously skipped 1344 similar messages
+- 1135925801 2005.12.29 tbird-sm1 Dec 29 22:56:41 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:1103]: Failed discover node test, node 5ad0000027275, port_num= 12, error code 1
+- 1146845952 2006.05.05 aadmin2 May 5 09:19:12 src@aadmin2 xinetd[30793]: START: rsync pid=14425 from=10.100.3.109
+- 1141057563 2006.02.27 cn496 Feb 27 08:26:03 cn496/cn496 ntpd[2279]: synchronized to 10.100.20.250, stratum 3
+- 1141056062 2006.02.27 tbird-admin1 Feb 27 08:01:02 local@tbird-admin1 syslog-ng[1639]: Cannot open file /var/log/syslog-ng/an765/2006.02.27 for writing (Too many open files)
+- 1133938861 2005.12.06 cn157 Dec 6 23:01:01 cn157/cn157 crond[29936]: (root) CMD (run-parts /etc/cron.hourly)
+- 1138036079 2006.01.23 bn262 Jan 23 09:07:59 bn262/bn262 ntpd[2285]: synchronized to 10.100.12.250, stratum 3
+- 1142544675 2006.03.16 an232 Mar 16 13:31:15 an232/an232 kernel: ACPI: Local APIC address 0xfee00000
+- 1140253278 2006.02.18 bn425 Feb 18 01:01:18 bn425/bn425 postfix/postdrop[22433]: warning: mail_queue_enter: create file maildrop/354423.22433: Read-only file system
+- 1145568446 2006.04.20 bn450 Apr 20 14:27:26 bn450/bn450 sysctl: net.ipv4.route.gc_thresh = 8192
+- 1147512292 2006.05.13 bn147 May 13 02:24:52 bn147/bn147 smartd[1977]: Device: /dev/sda, Temperature changed -2 Celsius to 22 Celsius since last report
+- 1147714710 2006.05.15 badmin2 May 15 10:38:30 src@badmin2 xinetd[1873]: START: rsync pid=15727 from=10.100.11.94
+- 1145471190 2006.04.19 bn524 Apr 19 11:26:30 bn524/bn524 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments (179 dynamic MTT segments left)
+- 1145470351 2006.04.19 bn156 Apr 19 11:12:31 bn156/bn156 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1143767087 2006.03.30 bn602 Mar 30 17:04:47 bn602/bn602 kernel: ACPI: LAPIC_NMI (acpi_id[0x06] high edge lint[0x1])
+- 1135550601 2005.12.25 dn1013 Dec 25 14:43:21 dn1013/dn1013 kernel: MOSAL(1): need_page_secure = no
+- 1141999262 2006.03.10 bn279 Mar 10 06:01:02 bn279/bn279 crond(pam_unix)[25937]: session closed for user root
+- 1140288344 2006.02.18 dn355 Feb 18 10:45:44 dn355/dn355 ntpd[6474]: synchronized to 10.100.30.250, stratum 3
+- 1148640074 2006.05.26 an827 May 26 03:41:14 an827/an827 kernel: MOSAL(1): need_page_secure = no
+- 1135295791 2005.12.22 en183 Dec 22 15:56:31 en183/en183 kernel: Probing IDE interface ide0...
+- 1137527469 2006.01.17 bn491 Jan 17 11:51:09 bn491/bn491 portmap: portmap startup succeeded
+- 1137090315 2006.01.12 dn498 Jan 12 10:25:15 dn498/dn498 kernel: ehci_hcd 0000:00:1d.7: EHCI Host Controller
+- 1136554183 2006.01.06 tbird-sm1 Jan 6 05:29:43 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_discovery.c:470]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1150649144 2006.06.18 en383 Jun 18 09:45:44 en383/en383 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1144096506 2006.04.03 cn964 Apr 3 13:35:06 cn964/cn964 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1144331350 2006.04.06 an375 Apr 6 06:49:10 an375/an375 kernel: ACPI: DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000
+- 1152590463 2006.07.10 dn617 Jul 10 21:01:03 dn617/dn617 crond(pam_unix)[3996]: session closed for user root
+- 1135632532 2005.12.26 dn868 Dec 26 13:28:52 dn868/dn868 kernel: MOSAL(1): map_list = 000001010a970320
+- 1144444795 2006.04.07 cn846 Apr 7 14:19:55 cn846/cn846 snmpd[2005]: [smux_accept] accepted fd 13 from 127.0.0.1:32780
+- 1141186470 2006.02.28 bn344 Feb 28 20:14:30 bn344/bn344 kernel: pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=0x1d7e (IPS: session got unknown error callback)) command 0xffffff0011410278
+- 1147933253 2006.05.17 cn813 May 17 23:20:53 cn813/cn813 ntpd[2274]: synchronized to 10.100.20.250, stratum 3
+- 1139851446 2006.02.13 an538 Feb 13 09:24:06 an538/an538 postfix/postdrop[7694]: warning: mail_queue_enter: create file maildrop/926172.7694: Read-only file system
+- 1134174368 2005.12.09 bn238 Dec 9 16:26:08 bn238/bn238 snmpd[7945]: Got trap from peer on fd 13
+- 1140506855 2006.02.20 an185 Feb 20 23:27:35 an185/an185 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1142893593 2006.03.20 bn168 Mar 20 14:26:33 bn168/bn168 smartd[1981]: Device: /dev/sda, Temperature changed -2 Celsius to 23 Celsius since last report
+- 1143919537 2006.04.01 bn963 Apr 1 11:25:37 bn963/bn963 kernel: ACPI: RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd5c4
+- 1145470544 2006.04.19 bn85 Apr 19 11:15:44 bn85/bn85 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1150621261 2006.06.18 cn415 Jun 18 02:01:01 cn415/cn415 crond(pam_unix)[13623]: session opened for user root by (uid=0)
+- 1140742158 2006.02.23 tbird-sm1 Feb 23 16:49:18 tbird-sm1/tbird-sm1 ib_sm[27009]: [ib_sm_assign.c:561]: Assigning LID, node - GUID=00:05:ad:00:00:04:7c:58, port=1
+- 1150729661 2006.06.19 tsqe2 Jun 19 08:07:41 tsqe2/tsqe2 sshd2[9229]: Now running on #41#'s privileges.
+- 1144872684 2006.04.12 an178 Apr 12 13:11:24 an178/an178 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1147320906 2006.05.10 tsqe2 May 10 21:15:06 tsqe2/tsqe2 sshd[26421]: Local disconnected: Connection closed.
+- 1145398213 2006.04.18 en228 Apr 18 15:10:13 en228/en228 postfix/postdrop[19679]: warning: mail_queue_enter: create file maildrop/259568.19679: Read-only file system
+- 1144186609 2006.04.04 cn70 Apr 4 14:36:49 cn70/cn70 kernel: pan_ips: error -- cmd_destroy: destroying aborted (rc=0x1d78 (IPS: command timed out)) command 0xffffff0011199eb8 (0:0:21)
+- 1147107734 2006.05.08 tsqe2 May 8 10:02:14 tsqe2/tsqe2 sshd[16305]: Remote host disconnected: Authentication cancelled by user.
+- 1146634501 2006.05.02 #56# May 2 22:35:01 #56#/#56# crond[23828]: (#57#) CMD (/home/#57#/ping2.sh)
+- 1150739392 2006.06.19 tsqe2 Jun 19 10:49:52 tsqe2/tsqe2 sshd[2466]: connection from "#569#"
+- 1139455400 2006.02.08 dn661 Feb 8 19:23:20 dn661/dn661 ntpd[2277]: synchronized to 10.100.26.250, stratum 3
+- 1136532041 2006.01.05 bn217 Jan 5 23:20:41 bn217/bn217 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1147628909 2006.05.14 bn567 May 14 10:48:29 bn567/bn567 network: Bringing up interface ib0: succeeded
+- 1138031342 2006.01.23 bn678 Jan 23 07:49:02 bn678/bn678 kernel: IOAPIC[2]: apic_id 9, version 32, address 0xfec83000, GSI 64-87
+- 1150057085 2006.06.11 dn632 Jun 11 13:18:05 dn632/dn632 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1140029334 2006.02.15 an538 Feb 15 10:48:54 an538/an538 postfix/postdrop[23425]: warning: mail_queue_enter: create file maildrop/578758.23425: Read-only file system
+- 1139698861 2006.02.11 bn381 Feb 11 15:01:01 bn381/bn381 crond(pam_unix)[21218]: session opened for user root by (uid=0)
+- 1147124784 2006.05.08 cn155 May 8 14:46:24 cn155/cn155 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2C00B16000
+- 1137017279 2006.01.11 an632 Jan 11 14:07:59 an632/an632 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments (222 dynamic MTT segments left)
+- 1143921953 2006.04.01 dn588 Apr 1 12:05:53 dn588/dn588 smartd[1980]: Device: /dev/sda, Temperature changed 6 Celsius to 30 Celsius since last report
+- 1143670745 2006.03.29 bn794 Mar 29 14:19:05 bn794/bn794 kernel: ib0: no IPv6 routers present
+- 1151749812 2006.07.01 tsqe2 Jul 1 03:30:12 tsqe2/tsqe2 sshd[2466]: connection from "#569#"
+- 1152293869 2006.07.07 #56# Jul 7 10:37:49 #56#/#56# postfix/pickup[9073]: 5AD58F200A2: uid=50055 from=<#26#>
+- 1148422544 2006.05.23 eadmin2 May 23 15:15:44 src@eadmin2 xinetd[17830]: START: rsync pid=22852 from=10.100.34.72
+- 1146787687 2006.05.04 tbird-sm1 May 4 17:08:07 tbird-sm1/tbird-sm1 ib_sm[26188]: [ib_sm_sweep.c:1553]: No configuration change required
+- 1143500244 2006.03.27 an798 Mar 27 14:57:24 an798/an798 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+- 1143835654 2006.03.31 en378 Mar 31 12:07:34 en378/en378 kernel: ACPI: PCI Root Bridge [PCI0] (00:00)
+- 1147019898 2006.05.07 dn213 May 7 09:38:18 dn213/dn213 kernel: EXT3 FS on sda6, internal journal
+- 1148643076 2006.05.26 aadmin4 May 26 04:31:16 src@aadmin4 xinetd[9520]: START: rsync pid=15417 from=10.100.7.107
+- 1138830495 2006.02.01 bn201 Feb 1 13:48:15 bn201/bn201 snmpd[9029]: Got trap from peer on fd 13
+- 1149950501 2006.06.10 en11 Jun 10 07:41:41 en11/en11 kernel: LustreError: 7907:0:(lib-move.c:1947:LNetPut()) Error sending PUT to 12345-10.196.132.81@vib: -113
+- 1144259964 2006.04.05 dn861 Apr 5 10:59:24 dn861/dn861 kernel: pan_ips: error -- cmd_destroy: invoking callback on aborted (rc=0x1d78 (IPS: command timed out)) command 0xffffff0011193d88
+- 1149838462 2006.06.09 en174 Jun 9 00:34:22 en174/en174 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_iobuf.c[126]: dump iobuf at 000001017d99a880 :
+- 1145470501 2006.04.19 bn836 Apr 19 11:15:01 bn836/bn836 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1151968195 2006.07.03 dn989 Jul 3 16:09:55 dn989/dn989 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1140654471 2006.02.22 an184 Feb 22 16:27:51 an184/an184 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 255 MTT segments (245 dynamic MTT segments left)
+- 1148635023 2006.05.26 an827 May 26 02:17:03 an827/an827 kernel: MOSAL(1): phys_ctg = no
+- 1147448839 2006.05.12 dn821 May 12 08:47:19 dn821/dn821 ntpd[2274]: synchronized to 10.100.26.250, stratum 3
+- 1147019859 2006.05.07 dn181 May 7 09:37:39 dn181/dn181 kernel: PanFS Client version: rhel_4_amd64/release 2.3.4-182875.13 SMP
+- 1147041739 2006.05.07 tsqe2 May 7 15:42:19 tsqe2/tsqe2 sshd2[19125]: Now running on #41#'s privileges.
+- 1135646615 2005.12.26 dn866 Dec 26 17:23:35 dn866/dn866 kernel: MOSAL(1): size = 0x4000
+- 1150978160 2006.06.22 en19 Jun 22 05:09:20 en19/en19 kernel: LustreError: 7887:0:(lib-move.c:1237:lnet_send()) No route to 12345-10.196.132.81@vib (all routers down)
+- 1134971725 2005.12.18 tbird-sm1 Dec 18 21:55:25 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:1103]: Failed discover node test, node 5ad0000028be5, port_num= 9, error code 1
+- 1147039915 2006.05.07 en56 May 7 15:11:55 en56/en56 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[412]: MOSAL_virt_to_phys_ex: cannot retrieve pgd_p: prot_ctx=USER, va=0x2C00291000
+- 1141076031 2006.02.27 an776 Feb 27 13:33:51 an776/an776 sshd(pam_unix)[3973]: session opened for user root by (uid=0)
+- 1143835619 2006.03.31 en241 Mar 31 12:06:59 en241/en241 smartd: smartd startup succeeded
+VAPI 1141591806 2006.03.05 bn653 Mar 5 12:50:06 bn653/bn653 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1136993871 2006.01.11 bn244 Jan 11 07:37:51 bn244/bn244 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1140644812 2006.02.22 an36 Feb 22 13:46:52 an36/an36 kernel: ACPI: PCI interrupt 0000:02:05.0[A] -> GSI 34 (level, low) -> IRQ 201
+- 1150669724 2006.06.18 en249 Jun 18 15:28:44 en249/en249 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1152129661 2006.07.05 an1021 Jul 5 13:01:01 an1021/an1021 crond(pam_unix)[24761]: session opened for user root by (uid=0)
+- 1141054778 2006.02.27 an290 Feb 27 07:39:38 an290/an290 xinetd[2262]: xinetd Version 2.3.13 started with libwrap loadavg options compiled in.
+- 1135613816 2005.12.26 dn866 Dec 26 08:16:56 dn866/dn866 kernel: MOSAL(1): ref_iobuf = 0000000000000000
+- 1147120995 2006.05.08 cn172 May 8 13:43:15 cn172/cn172 kernel: MOSAL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxsys/obj_host_amd64_custom1_rhel4/mlxsys/mosal_mem.c[422]: MOSAL_virt_to_phys_ex: cannot retrieve pmd_p: prot_ctx=USER, va=0x2C00BE1000
+- 1141976322 2006.03.09 cn650 Mar 9 23:38:42 cn650/cn650 kernel: MOSAL(1): iomem = no
+- 1141254061 2006.03.01 dn761 Mar 1 15:01:01 dn761/dn761 crond(pam_unix)[13996]: session closed for user root
+- 1138901335 2006.02.02 an621 Feb 2 09:28:55 an621/an621 kernel: PCI: Setting latency timer of device 0000:00:1d.1 to 64
+- 1139238444 2006.02.06 tbird-sm1 Feb 6 07:07:24 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 4, 13, 22, 12, 19, 0, 0, 0
+VAPI 1135550629 2005.12.25 an690 Dec 25 14:43:49 an690/an690 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1143931486 2006.04.01 cn480 Apr 1 14:44:46 cn480/cn480 ntpd[2282]: synchronized to 10.100.22.250, stratum 3
+- 1149685543 2006.06.07 tsqe2 Jun 7 06:05:43 tsqe2/tsqe2 sshd[1429]: connection lost: 'Connection closed.'
+- 1140725388 2006.02.23 an538 Feb 23 12:09:48 an538/an538 postfix/postdrop[32163]: warning: mail_queue_enter: create file maildrop/745311.32163: Read-only file system
+- 1133575261 2005.12.02 an607 Dec 2 18:01:01 an607/an607 crond(pam_unix)[6928]: session closed for user root
+- 1144364751 2006.04.06 tbird-sm1 Apr 6 16:05:51 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_routing.c:3672]: Failed to set LFT to switch=00:05:ad:00:00:02:8d:d4
+- 1138168569 2006.01.24 bn216 Jan 24 21:56:09 bn216/bn216 Server Administrator: Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0
+- 1150836990 2006.06.20 tbird-sm1 Jun 20 13:56:30 tbird-sm1/tbird-sm1 ib_sm[2591]: [ib_sm_sweep.c:1914]: ********************** NEW SWEEP ********************
+- 1150562668 2006.06.17 en382 Jun 17 09:44:28 en382/en382 kernel: THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[1597]: XHH_hob_process_local_mad: Device in FATAL state
+- 1142448834 2006.03.15 bn50 Mar 15 10:53:54 bn50/bn50 postfix: succeeded
+- 1137798733 2006.01.20 en208 Jan 20 15:12:13 en208/en208 sshd(pam_unix)[6452]: session opened for user root by (uid=0)
+- 1135755140 2005.12.27 cn704 Dec 27 23:32:20 cn704/cn704 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1143251278 2006.03.24 en155 Mar 24 17:47:58 en155/en155 kernel: pciehp: Address64 -------- Resource unparsed
+VAPI 1150645090 2006.06.18 en256 Jun 18 08:38:10 en256/en256 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1146353891 2006.04.29 cn205 Apr 29 16:38:11 cn205/cn205 kernel: kjournald starting. Commit interval 5 seconds
+- 1136077261 2005.12.31 an376 Dec 31 17:01:01 an376/an376 crond(pam_unix)[26348]: session opened for user root by (uid=0)
+- 1139867128 2006.02.13 bn875 Feb 13 13:45:28 bn875/bn875 postfix/postdrop[30724]: warning: mail_queue_enter: create file maildrop/892746.30724: Read-only file system
+- 1142811802 2006.03.19 dn15 Mar 19 15:43:22 dn15/dn15 snmpd[2059]: Got trap from peer on fd 13
+- 1140708116 2006.02.23 an788 Feb 23 07:21:56 an788/an788 postfix/postdrop[30092]: warning: mail_queue_enter: create file maildrop/950384.30092: Read-only file system
+- 1137815780 2006.01.20 tbird-sm1 Jan 20 19:56:20 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_sweep.c:1264]: Rediscover the subnet
+- 1147729756 2006.05.15 dn293 May 15 14:49:16 dn293/dn293 dataeng: dcstor32d startup succeeded
+- 1148414796 2006.05.23 cn827 May 23 13:06:36 cn827/cn827 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1146946492 2006.05.06 an494 May 6 13:14:52 an494/an494 Server Administrator: Instrumentation Service EventID: 1000 Server Administrator starting
+- 1152058061 2006.07.04 tsqe2 Jul 4 17:07:41 tsqe2/tsqe2 sshd[31917]: Local disconnected: Connection closed.
+- 1145920943 2006.04.24 an485 Apr 24 16:22:23 an485/an485 kernel: testing NMI watchdog ... OK.
+- 1136914558 2006.01.10 cn24 Jan 10 09:35:58 cn24/cn24 kernel: audit(1136885724.369:1): initialized
+- 1135581756 2005.12.25 tbird-sm1 Dec 25 23:22:36 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 1, 13, 5, 2, 5, 0, 0, 0
+- 1141915772 2006.03.09 bn316 Mar 9 06:49:32 bn316/bn316 snmpd[13515]: Got trap from peer on fd 13
+- 1145756256 2006.04.22 .179 Apr 22 18:37:36 .179 MDT: %RPM0-P:CP %IFMGR-5-OSTATE_DN: Changed interface state to down: Gi 8/89
+- 1144363048 2006.04.06 badmin2 Apr 6 15:37:28 src@badmin2 xinetd[13124]: START: rsync pid=25926 from=10.100.11.50
+- 1138169042 2006.01.24 bn471 Jan 24 22:04:02 bn471/bn471 postfix/postdrop[3984]: warning: mail_queue_enter: create file maildrop/659671.3984: Read-only file system
+- 1147126046 2006.05.08 bn802 May 8 15:07:26 bn802/bn802 sshd(pam_unix)[5654]: session opened for user #113# by (uid=0)
+- 1137433660 2006.01.16 cn473 Jan 16 09:47:40 cn473/cn473 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1147714714 2006.05.15 cadmin1 May 15 10:38:34 src@cadmin1 xinetd[28023]: START: rsync pid=16982 from=10.100.16.27
+- 1144096288 2006.04.03 cn924 Apr 3 13:31:28 cn924/cn924 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1141623626 2006.03.05 bn653 Mar 5 21:40:26 bn653/bn653 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:292]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1150446683 2006.06.16 tsqe2 Jun 16 01:31:23 tsqe2/tsqe2 sshd[22060]: connection lost: 'Connection closed.'
+- 1146353787 2006.04.29 cn68 Apr 29 16:36:27 cn68/cn68 kernel: ACPI: IRQ0 used by override.
+- 1146968274 2006.05.06 tsqe2 May 6 19:17:54 tsqe2/tsqe2 sshd[2481]: connection from "#569#"
+- 1145470415 2006.04.19 bn809 Apr 19 11:13:35 bn809/bn809 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1139270462 2006.02.06 cn242 Feb 6 16:01:02 cn242/cn242 crond(pam_unix)[29500]: session closed for user root
+- 1152538338 2006.07.10 tsqe2 Jul 10 06:32:18 tsqe2/tsqe2 sshd[2286]: authentication cancelled by user: 'Authentication cancelled by user.'
+- 1148998534 2006.05.30 tsqe2 May 30 07:15:34 tsqe2/tsqe2 sshd[11409]: Local disconnected: Connection closed.
+- 1137017026 2006.01.11 cn24 Jan 11 14:03:46 cn24/cn24 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1148124761 2006.05.20 dadmin4 May 20 04:32:41 src@dadmin4 xinetd[31479]: START: rsync pid=564 from=10.100.30.89
+- 1134666550 2005.12.15 an247 Dec 15 09:09:10 an247/an247 xinetd[1946]: removing daytime
+- 1152444727 2006.07.09 aadmin4 Jul 9 04:32:07 src@aadmin4 xinetd[17702]: START: rsync pid=32515 from=10.100.7.94
+- 1145934061 2006.04.24 an190 Apr 24 20:01:01 an190/an190 crond(pam_unix)[3667]: session opened for user root by (uid=0)
+- 1143094195 2006.03.22 bn414 Mar 22 22:09:55 bn414/bn414 Server Administrator: Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0
+- 1137646951 2006.01.18 #33# Jan 18 21:02:31 #33#/#33# kernel: LustreError: 31430:0:(socknal_lib-linux.c:813:ksocknal_lib_connect_sock()) Error -111 connecting 10.100.24.251/1023 -> 10.0.4.79/988
+- 1145662581 2006.04.21 .577 Apr 21 16:36:21 .577 MDT: %RPM0-P:CP %IFMGR-5-OSTATE_UP: Changed interface state to up: Gi 8/89
+- 1143768491 2006.03.30 dn107 Mar 30 17:28:11 dn107/dn107 instsvcdrv: dcdipm device driver loaded
+- 1135231057 2005.12.21 dn840 Dec 21 21:57:37 dn840/dn840 kernel: MOSAL(1): file_pgoff = 0x1c7f7
+- 1148422532 2006.05.23 cadmin2 May 23 15:15:32 src@cadmin2 xinetd[29473]: START: rsync pid=13814 from=10.100.18.121
+VAPI 1135071929 2005.12.20 an690 Dec 20 01:45:29 an690/an690 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+- 1151252431 2006.06.25 cn355 Jun 25 09:20:31 cn355/cn355 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[263]: reserve_mtt_segs: Cannot reserve 511 MTT segments (461 dynamic MTT segments left)
+- 1145979300 2006.04.25 tbird-sm1 Apr 25 08:35:00 tbird-sm1/tbird-sm1 postfix/pickup[20211]: 629583B8003: uid=28558 from=<#1867#>
+- 1150284757 2006.06.14 dadmin2 Jun 14 04:32:37 src@dadmin2 xinetd[3734]: FAIL: rsync service_limit from=10.100.26.38
+- 1134500878 2005.12.13 an36 Dec 13 11:07:58 an36/an36 kernel: ACPI: LAPIC_NMI (acpi_id[0x04] high edge lint[0x1])
+- 1141069839 2006.02.27 bn242 Feb 27 11:50:39 bn242/bn242 ntpd[2283]: synchronized to 10.100.14.250, stratum 3
+- 1147191751 2006.05.09 an78 May 9 09:22:31 an78/an78 sshd[29501]: Accepted publickey for root from ::ffff:10.100.248.2 port 55525 ssh2
+- 1141064865 2006.02.27 en264 Feb 27 10:27:45 en264/en264 sshd[2770]: Accepted publickey for root from ::ffff:10.100.32.250 port 33140 ssh2
+- 1145484023 2006.04.19 bn587 Apr 19 15:00:23 bn587/bn587 kernel: THH(1): XHH_mrwm_register_mr: rc=HH_EAGAIN
+- 1135549037 2005.12.25 bn215 Dec 25 14:17:17 bn215/bn215 snmpd[1277]: Got trap from peer on fd 13
+- 1139035071 2006.02.03 an538 Feb 3 22:37:51 an538/an538 postfix/postdrop[6535]: warning: mail_queue_enter: create file maildrop/299163.6535: Read-only file system
+- 1138975301 2006.02.03 an760 Feb 3 06:01:41 an760/an760 kernel: THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[1597]: XHH_hob_process_local_mad: Device in FATAL state
+- 1138124166 2006.01.24 bn104 Jan 24 09:36:06 bn104/bn104 portmap: portmap startup succeeded
+- 1135755298 2005.12.27 cn483 Dec 27 23:34:58 cn483/cn483 kernel: VIPKL(1): [MM_create_mr]:MM_mr_get_keys failed
+- 1137937319 2006.01.22 tbird-sm1 Jan 22 05:41:59 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_discovery.c:470]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1143819482 2006.03.31 dadmin2 Mar 31 07:38:02 src@dadmin2 xinetd[10433]: START: rsync pid=363 from=10.100.27.94
+- 1137003640 2006.01.11 bn747 Jan 11 10:20:40 bn747/bn747 snmpd[2014]: accepted smux peer: oid SNMPv2-SMI::enterprises.674.10892.1, password , descr Systems Management SNMP MIB Plug-in Manager
+- 1137440752 2006.01.16 tbird-sm1 Jan 16 11:45:52 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_sweep.c:254]: An existing IB node GUID 0005AD00000470E5 LID 3562 was removed
+- 1147293385 2006.05.10 dadmin4 May 10 13:36:25 src@dadmin4 xinetd[31479]: START: rsync pid=27784 from=10.100.31.48
+- 1132695712 2005.11.22 an458 Nov 22 13:41:52 an458/an458 kernel: ACPI: (supports S0 S4 S5)
+- 1145918504 2006.04.24 bn417 Apr 24 15:41:44 bn417/bn417 kernel: ACPI: PCI interrupt 0000:02:05.0[A] -> GSI 34 (level, low) -> IRQ 201
+- 1142093763 2006.03.11 dn10 Mar 11 08:16:03 dn10/dn10 ntpd[2279]: synchronized to 10.100.30.250, stratum 3
+- 1135546003 2005.12.25 dn825 Dec 25 13:26:43 dn825/dn825 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:292]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1146455183 2006.04.30 bn126 Apr 30 20:46:23 bn126/bn126 kernel: ACPI: PCI interrupt 0000:00:05.0[A] -> GSI 16 (level, low) -> IRQ 169
+- 1133291879 2005.11.29 en46 Nov 29 11:17:59 en46/en46 kernel: PCI0 PALO PBLO VPR0 PBHI PICH
+- 1135665841 2005.12.26 dn866 Dec 26 22:44:01 dn866/dn866 kernel: MOSAL(1): iomem = no
+- 1143732749 2006.03.30 bn1004 Mar 30 07:32:29 bn1004/bn1004 kernel: VFS: Disk quotas dquot_6.5.1
+- 1150492299 2006.06.16 tsqe2 Jun 16 14:11:39 tsqe2/tsqe2 sshd[19188]: connection lost: 'Connection closed.'
+- 1144386280 2006.04.06 bn764 Apr 6 22:04:40 bn764/bn764 kernel: panfs mount: Directory Caching is turned ON
+- 1135645470 2005.12.26 dn871 Dec 26 17:04:30 dn871/dn871 kernel: MOSAL(1): file_p = 0000000000000000
+- 1141923399 2006.03.09 #21# Mar 9 08:56:39 #21#/#21# sshd[28880]: pam_krb5[28880]: authenticating '#65#@#24#' to 'krbtgt/#24#@#24#'
+- 1139131849 2006.02.05 an538 Feb 5 01:30:49 an538/an538 postfix/postdrop[31142]: warning: mail_queue_enter: create file maildrop/176537.31142: Read-only file system
+- 1144627329 2006.04.09 bn358 Apr 9 17:02:09 bn358/bn358 ntpd[2289]: synchronized to 10.100.12.250, stratum 3
+- 1140731304 2006.02.23 tbird-sm1 Feb 23 13:48:24 tbird-sm1/tbird-sm1 ib_sm[17475]: [ib_sm_discovery.c:1256]: Found existing neighbor 00:05:ad:00:00:04:04:68, port= 1
+- 1137082047 2006.01.12 dn175 Jan 12 08:07:27 dn175/dn175 kernel: Total HugeTLB memory allocated, 0
+- 1144186225 2006.04.04 dn691 Apr 4 14:30:25 dn691/dn691 kernel: pan_ips: error -- IPS command timeout command timed out expire_time=1144182625:356768000 now=1144182625:359443000 lifetime=75:002675000 grace_timeouts=0 cd=0xffffff001118a208 session=0x101ae43f7c0 (connection info not avail 0x23a5 (pan_sock: socket not connected)) id=(4630:1:30)
+- 1143740455 2006.03.30 cn868 Mar 30 09:40:55 cn868/cn868 kernel: BIOS-e820: 00000000bffcfc00 - 00000000bffff000 (reserved)
+- 1136670058 2006.01.07 tbird-sm1 Jan 7 13:40:58 src@tbird-sm1 ib_sm.x[15679]: [ib_sm_sweep.c:1264]: Rediscover the subnet
+- 1137113896 2006.01.12 dn310 Jan 12 16:58:16 dn310/dn310 sysctl: kernel.core_uses_pid = 1
+- 1148503071 2006.05.24 bn826 May 24 13:37:51 bn826/bn826 ntpd[2280]: synchronized to 10.100.14.250, stratum 3
+- 1145988061 2006.04.25 an16 Apr 25 11:01:01 an16/an16 crond[4384]: (root) CMD (run-parts /etc/cron.hourly)
+- 1146509125 2006.05.01 bn788 May 1 11:45:25 bn788/bn788 kernel: MOSAL(1): file_p = 0000000000000000
+- 1150833721 2006.06.20 tsqe2 Jun 20 13:02:01 tsqe2/tsqe2 sshd2[5711]: Now running on #41#'s privileges.
+- 1146614144 2006.05.02 #32# May 2 16:55:44 #32#/#32# sshd[15934]: pam_krb5[15934]: ticket lifetime: 36000
+- 1135821777 2005.12.28 bn971 Dec 28 18:02:57 bn971/bn971 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:292]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1135596544 2005.12.26 tbird-sm1 Dec 26 03:29:04 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 4, 13, 17, 5, 7, 0, 0, 0
+- 1148809405 2006.05.28 tsqe2 May 28 02:43:25 tsqe2/tsqe2 sshd[7329]: Remote host disconnected: Authentication cancelled by user.
+- 1144212918 2006.04.04 tbird-admin2 Apr 4 21:55:18 tbird-admin2/tbird-admin2 sshd(pam_unix)[10525]: session opened for user root by (uid=0)
+- 1143341337 2006.03.25 #56# Mar 25 18:48:57 #56#/#56# su(pam_unix)[14682]: session opened for user #117# by #117#(uid=0)
+- 1136998511 2006.01.11 dn980 Jan 11 08:55:11 dn980/dn980 sysctl: net.core.rmem_max = 262144
+- 1137000669 2006.01.11 cn867 Jan 11 09:31:09 cn867/cn867 date: Wed Jan 11 09:30:54 MST 2006
+- 1137193262 2006.01.13 cn940 Jan 13 15:01:02 cn940/cn940 crond(pam_unix)[7269]: session closed for user root
+- 1149530925 2006.06.05 cn106 Jun 5 11:08:45 cn106/cn106 ntpd[2279]: synchronized to 10.100.16.250, stratum 3
+- 1133292090 2005.11.29 en382 Nov 29 11:21:30 en382/en382 kernel: Probing IDE interface ide2...
+- 1143936116 2006.04.01 cn502 Apr 1 16:01:56 cn502/cn502 kernel: pan_ips: error -- cmd_destroy: destroying timed out command cd=0xffffff0011179ba0
+- 1136477596 2006.01.05 bn16 Jan 5 08:13:16 bn16/bn16 kernel: ACPI: IRQ2 used by override.
+- 1131748936 2005.11.11 dn44 Nov 11 14:42:16 dn44/dn44 dataeng: dcstor32d startup succeeded
+- 1142043754 2006.03.10 #21# Mar 10 18:22:34 #21#/#21# sshd: pam_krb5[20185]: validating credentials
+- 1136484679 2006.01.05 cn235 Jan 5 10:11:19 cn235/cn235 kernel: - Added public key EA232A604969C61D
+- 1148568674 2006.05.25 #9# May 25 07:51:14 #9#/#9# time.c: Lost 34 timer tick(s)! rip __do_softirq+0x4d/0xd0)
+- 1133953142 2005.12.07 tbird-sm1 Dec 7 02:59:02 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_discovery.c:470]: Failed to GetNodeInfo() because of NO RESPONSE
+- 1151234185 2006.06.25 dn174 Jun 25 04:16:25 dn174/dn174 ntpd[2279]: synchronized to 10.100.30.250, stratum 3
+- 1146824315 2006.05.05 tsqe2 May 5 03:18:35 tsqe2/tsqe2 sshd[21312]: connection lost: 'Connection closed.'
+- 1150526445 2006.06.16 en275 Jun 16 23:40:45 en275/en275 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16-mad_inst/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:293]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
+- 1131983087 2005.11.14 tbird-admin1 Nov 14 07:44:47 local@tbird-admin1 /apps/x86_64/system/ganglia-3.0.1/sbin/gmetad[1684]: data_thread() got not answer from any [Thunderbird_A2] datasource
+- 1147267007 2006.05.10 tsqe2 May 10 06:16:47 tsqe2/tsqe2 sshd[32702]: connection lost: 'Connection closed.'
+- 1146395448 2006.04.30 #56# Apr 30 04:10:48 #56#/#56# smokeping[5024]: FPing: Got fping output: 'ibr7-southern : 0.5 0.7 0.9 0.3 0.7 0.1 0.6 0.7 0.6 0.4 0.5 0.6 0.6 0.4 0.6 0.4 0.2 0.0 0.4 0.8'
+- 1152118861 2006.07.05 an653 Jul 5 10:01:01 an653/an653 crond[23912]: (root) CMD (run-parts /etc/cron.hourly)
+- 1139825273 2006.02.13 cn551 Feb 13 02:07:53 cn551/cn551 postfix/postdrop[6728]: warning: mail_queue_enter: create file maildrop/131846.6728: Read-only file system
+- 1146456774 2006.04.30 cn404 Apr 30 21:12:54 cn404/cn404 kernel: IP: routing cache hash table of 32768 buckets, 512Kbytes
+- 1144458089 2006.04.07 cn955 Apr 7 18:01:29 cn955/cn955 kernel: VIPKL(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/vip/obj_host_amd64_custom1_rhel4/mod_vip/mmu.c[243]: make_iobuf: MOSAL_iobuf_register failed: va=0x2A15DEC000size=0x16001000
+- 1140550241 2006.02.21 bn425 Feb 21 11:30:41 bn425/bn425 postfix/postdrop[24211]: warning: mail_queue_enter: create file maildrop/574901.24211: Read-only file system
+- 1150441261 2006.06.16 cn660 Jun 16 00:01:01 cn660/cn660 crond[8584]: (root) CMD (run-parts /etc/cron.hourly)
+- 1142513769 2006.03.16 dn183 Mar 16 04:56:09 dn183/dn183 ntpd[2280]: synchronized to 10.100.30.250, stratum 3
+- 1144986846 2006.04.13 tbird-sm1 Apr 13 20:54:06 tbird-sm1/tbird-sm1 ib_sm[2100]: [ib_sm_discovery.c:495]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, 1, 13, 13, 11, 6, 0, 0, 0
+- 1141993845 2006.03.10 dadmin1 Mar 10 04:30:45 src@dadmin1 xinetd[1862]: START: rsync pid=12905 from=10.100.24.109
+- 1146828626 2006.05.05 an865 May 5 04:30:26 an865/an865 sshd[15477]: Accepted publickey for root from ::ffff:10.100.6.250 port 49872 ssh2
+- 1146099162 2006.04.26 an716 Apr 26 17:52:42 an716/an716 sshd(pam_unix)[9549]: session opened for user root by (uid=0)
+- 1140654458 2006.02.22 an237 Feb 22 16:27:38 an237/an237 kernel: THH(4): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/tptm.c[1093]: alloc_reg_pages: Out of MTT entries
+- 1136386234 2006.01.04 an810 Jan 4 06:50:34 an810/an810 syslog: klogd startup succeeded
+- 1136386291 2006.01.04 an543 Jan 4 06:51:31 an543/an543 sysctl: kernel.core_uses_pid = 1
+- 1142247046 2006.03.13 dn959 Mar 13 02:50:46 dn959/dn959 smartd[1977]: Device: /dev/sda, Temperature changed -2 Celsius to 32 Celsius since last report
+- 1137091603 2006.01.12 dn152 Jan 12 10:46:43 dn152/dn152 kernel: scsi0 : ioc0: LSI53C1030, FwRev=01032300h, Ports=1, MaxQ=203, IRQ=201
+- 1135115907 2005.12.20 an690 Dec 20 13:58:27 an690/an690 kernel: [KERNEL_IB][ib_mad_dispatch][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/ts_api_ng/mad/obj_host_amd64_custom1_rhel4/ts_ib_mad/mad_filter.c:292]mad_process failed (0) for InfiniHost0 port 1 QPN 0 (class 0x81, aid 0x0011)
