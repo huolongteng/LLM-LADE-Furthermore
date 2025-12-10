@@ -79,6 +79,12 @@ if __name__ == "__main__":
     # 按你的真实路径改
     # BGL和HDFS都OK
     run_one(
+        "Thunderbird",
+        "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\Thunderbird",
+        "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\Thunderbird",
+    )
+    """
+    run_one(
         "BGL",
         "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\BGL",
         "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\BGL"
@@ -88,8 +94,5 @@ if __name__ == "__main__":
         "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\HDFS_v1",
         "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\HDFS_v1"
     )
-    run_one(
-        "Thunderbird",
-        "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\Thunderbird",
-        "F:\\Projects\\LLM-LADE-Furthermore\\dataset\\Thunderbird",
-    )
+    """
+
