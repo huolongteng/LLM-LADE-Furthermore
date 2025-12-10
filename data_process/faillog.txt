@@ -1,0 +1,26 @@
+Processed 100.0% of log lines.
+Traceback (most recent call last):
+  File "F:\Projects\LLM-LADE-Furthermore\data_process\parsing_dataset_new.py", line 32, in <module>
+    main()
+  File "F:\Projects\LLM-LADE-Furthermore\data_process\parsing_dataset_new.py", line 28, in main
+    parser.parse(log_file)
+  File "C:\Users\HLT\.conda\envs\LLM-LADE-Furthermore\lib\site-packages\logparser\Drain\Drain.py", line 312, in parse
+    self.outputResult(logCluL)
+  File "C:\Users\HLT\.conda\envs\LLM-LADE-Furthermore\lib\site-packages\logparser\Drain\Drain.py", line 237, in outputResult
+    self.df_log.to_csv(
+  File "C:\Users\HLT\.conda\envs\LLM-LADE-Furthermore\lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\HLT\.conda\envs\LLM-LADE-Furthermore\lib\site-packages\pandas\core\generic.py", line 3989, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\HLT\.conda\envs\LLM-LADE-Furthermore\lib\site-packages\pandas\io\formats\format.py", line 1014, in to_csv
+    csv_formatter.save()
+  File "C:\Users\HLT\.conda\envs\LLM-LADE-Furthermore\lib\site-packages\pandas\io\formats\csvs.py", line 270, in save
+    self._save()
+  File "C:\Users\HLT\.conda\envs\LLM-LADE-Furthermore\lib\site-packages\pandas\io\formats\csvs.py", line 275, in _save
+    self._save_body()
+  File "C:\Users\HLT\.conda\envs\LLM-LADE-Furthermore\lib\site-packages\pandas\io\formats\csvs.py", line 313, in _save_body
+    self._save_chunk(start_i, end_i)
+  File "C:\Users\HLT\.conda\envs\LLM-LADE-Furthermore\lib\site-packages\pandas\io\formats\csvs.py", line 324, in _save_chunk
+    libwriters.write_csv_rows(
+  File "pandas/_libs/writers.pyx", line 73, in pandas._libs.writers.write_csv_rows
+_csv.Error: need to escape, but no escapechar set
